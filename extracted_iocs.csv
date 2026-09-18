@@ -1,0 +1,1787 @@
+report_id,entity_type,entity_value,analytical_relevance
+TRN00004,ipv4,198.51.100.5,Possible C2 or scanning source/destination address
+TRN00004,domain,node-4-sync.example,Possible C2/phishing infrastructure domain
+TRN00005,ipv4,198.51.100.6,Possible C2 or scanning source/destination address
+TRN00005,domain,node-5-sync.example,Possible C2/phishing infrastructure domain
+TRN00007,ipv4,198.51.100.8,Possible C2 or scanning source/destination address
+TRN00007,domain,node-7-sync.example,Possible C2/phishing infrastructure domain
+TRN00009,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN00009,domain,node-9-sync.example,Possible C2/phishing infrastructure domain
+TRN00009,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00011,ipv4,198.51.100.12,Possible C2 or scanning source/destination address
+TRN00011,domain,node-11-sync.example,Possible C2/phishing infrastructure domain
+TRN00011,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00013,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN00013,domain,node-13-sync.example,Possible C2/phishing infrastructure domain
+TRN00015,ipv4,198.51.100.16,Possible C2 or scanning source/destination address
+TRN00015,domain,node-15-sync.example,Possible C2/phishing infrastructure domain
+TRN00019,ipv4,198.51.100.20,Possible C2 or scanning source/destination address
+TRN00019,domain,node-19-sync.example,Possible C2/phishing infrastructure domain
+TRN00023,ipv4,198.51.100.24,Possible C2 or scanning source/destination address
+TRN00023,domain,node-23-sync.example,Possible C2/phishing infrastructure domain
+TRN00023,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00031,ipv4,198.51.100.32,Possible C2 or scanning source/destination address
+TRN00031,domain,node-31-sync.example,Possible C2/phishing infrastructure domain
+TRN00032,ipv4,198.51.100.33,Possible C2 or scanning source/destination address
+TRN00032,domain,node-32-sync.example,Possible C2/phishing infrastructure domain
+TRN00032,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00037,ipv4,198.51.100.38,Possible C2 or scanning source/destination address
+TRN00037,domain,node-37-sync.example,Possible C2/phishing infrastructure domain
+TRN00042,ipv4,198.51.100.43,Possible C2 or scanning source/destination address
+TRN00042,domain,node-42-sync.example,Possible C2/phishing infrastructure domain
+TRN00042,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00048,ipv4,198.51.100.49,Possible C2 or scanning source/destination address
+TRN00048,domain,node-48-sync.example,Possible C2/phishing infrastructure domain
+TRN00049,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN00049,domain,node-49-sync.example,Possible C2/phishing infrastructure domain
+TRN00050,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN00050,domain,node-50-sync.example,Possible C2/phishing infrastructure domain
+TRN00052,ipv4,198.51.100.53,Possible C2 or scanning source/destination address
+TRN00052,domain,node-52-sync.example,Possible C2/phishing infrastructure domain
+TRN00052,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00064,ipv4,198.51.100.65,Possible C2 or scanning source/destination address
+TRN00064,domain,node-64-sync.example,Possible C2/phishing infrastructure domain
+TRN00067,ipv4,198.51.100.68,Possible C2 or scanning source/destination address
+TRN00067,domain,node-67-sync.example,Possible C2/phishing infrastructure domain
+TRN00069,ipv4,198.51.100.70,Possible C2 or scanning source/destination address
+TRN00069,domain,node-69-sync.example,Possible C2/phishing infrastructure domain
+TRN00069,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00071,ipv4,198.51.100.72,Possible C2 or scanning source/destination address
+TRN00071,domain,node-71-sync.example,Possible C2/phishing infrastructure domain
+TRN00072,ipv4,198.51.100.73,Possible C2 or scanning source/destination address
+TRN00072,domain,node-72-sync.example,Possible C2/phishing infrastructure domain
+TRN00074,ipv4,198.51.100.75,Possible C2 or scanning source/destination address
+TRN00074,domain,node-74-sync.example,Possible C2/phishing infrastructure domain
+TRN00074,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00078,ipv4,198.51.100.79,Possible C2 or scanning source/destination address
+TRN00078,domain,node-78-sync.example,Possible C2/phishing infrastructure domain
+TRN00080,ipv4,198.51.100.81,Possible C2 or scanning source/destination address
+TRN00080,domain,node-80-sync.example,Possible C2/phishing infrastructure domain
+TRN00088,ipv4,198.51.100.89,Possible C2 or scanning source/destination address
+TRN00088,domain,node-88-sync.example,Possible C2/phishing infrastructure domain
+TRN00089,ipv4,198.51.100.90,Possible C2 or scanning source/destination address
+TRN00089,domain,node-89-sync.example,Possible C2/phishing infrastructure domain
+TRN00092,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN00092,domain,node-92-sync.example,Possible C2/phishing infrastructure domain
+TRN00093,ipv4,198.51.100.94,Possible C2 or scanning source/destination address
+TRN00093,domain,node-93-sync.example,Possible C2/phishing infrastructure domain
+TRN00094,ipv4,198.51.100.95,Possible C2 or scanning source/destination address
+TRN00094,domain,node-94-sync.example,Possible C2/phishing infrastructure domain
+TRN00095,ipv4,198.51.100.96,Possible C2 or scanning source/destination address
+TRN00095,domain,node-95-sync.example,Possible C2/phishing infrastructure domain
+TRN00095,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00097,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN00097,domain,node-97-sync.example,Possible C2/phishing infrastructure domain
+TRN00097,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00099,ipv4,198.51.100.100,Possible C2 or scanning source/destination address
+TRN00099,domain,node-99-sync.example,Possible C2/phishing infrastructure domain
+TRN00100,ipv4,198.51.100.101,Possible C2 or scanning source/destination address
+TRN00100,domain,node-100-sync.example,Possible C2/phishing infrastructure domain
+TRN00102,ipv4,198.51.100.103,Possible C2 or scanning source/destination address
+TRN00102,domain,node-102-sync.example,Possible C2/phishing infrastructure domain
+TRN00102,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00103,ipv4,198.51.100.104,Possible C2 or scanning source/destination address
+TRN00103,domain,node-103-sync.example,Possible C2/phishing infrastructure domain
+TRN00115,ipv4,198.51.100.116,Possible C2 or scanning source/destination address
+TRN00115,domain,node-115-sync.example,Possible C2/phishing infrastructure domain
+TRN00118,ipv4,198.51.100.119,Possible C2 or scanning source/destination address
+TRN00118,domain,node-118-sync.example,Possible C2/phishing infrastructure domain
+TRN00125,ipv4,198.51.100.126,Possible C2 or scanning source/destination address
+TRN00125,domain,node-125-sync.example,Possible C2/phishing infrastructure domain
+TRN00125,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00126,ipv4,198.51.100.127,Possible C2 or scanning source/destination address
+TRN00126,domain,node-126-sync.example,Possible C2/phishing infrastructure domain
+TRN00128,ipv4,198.51.100.129,Possible C2 or scanning source/destination address
+TRN00128,domain,node-128-sync.example,Possible C2/phishing infrastructure domain
+TRN00129,ipv4,198.51.100.130,Possible C2 or scanning source/destination address
+TRN00129,domain,node-129-sync.example,Possible C2/phishing infrastructure domain
+TRN00130,ipv4,198.51.100.131,Possible C2 or scanning source/destination address
+TRN00130,domain,node-130-sync.example,Possible C2/phishing infrastructure domain
+TRN00130,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00132,ipv4,198.51.100.133,Possible C2 or scanning source/destination address
+TRN00132,domain,node-132-sync.example,Possible C2/phishing infrastructure domain
+TRN00133,ipv4,198.51.100.134,Possible C2 or scanning source/destination address
+TRN00133,domain,node-133-sync.example,Possible C2/phishing infrastructure domain
+TRN00133,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00136,ipv4,198.51.100.137,Possible C2 or scanning source/destination address
+TRN00136,domain,node-136-sync.example,Possible C2/phishing infrastructure domain
+TRN00136,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00141,ipv4,198.51.100.142,Possible C2 or scanning source/destination address
+TRN00141,domain,node-141-sync.example,Possible C2/phishing infrastructure domain
+TRN00151,ipv4,198.51.100.152,Possible C2 or scanning source/destination address
+TRN00151,domain,node-151-sync.example,Possible C2/phishing infrastructure domain
+TRN00151,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00152,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN00152,domain,node-152-sync.example,Possible C2/phishing infrastructure domain
+TRN00155,ipv4,198.51.100.156,Possible C2 or scanning source/destination address
+TRN00155,domain,node-155-sync.example,Possible C2/phishing infrastructure domain
+TRN00155,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00160,ipv4,198.51.100.161,Possible C2 or scanning source/destination address
+TRN00160,domain,node-160-sync.example,Possible C2/phishing infrastructure domain
+TRN00160,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00164,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN00164,domain,node-164-sync.example,Possible C2/phishing infrastructure domain
+TRN00165,ipv4,198.51.100.166,Possible C2 or scanning source/destination address
+TRN00165,domain,node-165-sync.example,Possible C2/phishing infrastructure domain
+TRN00167,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN00167,domain,node-167-sync.example,Possible C2/phishing infrastructure domain
+TRN00170,ipv4,198.51.100.171,Possible C2 or scanning source/destination address
+TRN00170,domain,node-170-sync.example,Possible C2/phishing infrastructure domain
+TRN00170,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00173,ipv4,198.51.100.174,Possible C2 or scanning source/destination address
+TRN00173,domain,node-173-sync.example,Possible C2/phishing infrastructure domain
+TRN00174,ipv4,198.51.100.175,Possible C2 or scanning source/destination address
+TRN00174,domain,node-174-sync.example,Possible C2/phishing infrastructure domain
+TRN00179,ipv4,198.51.100.180,Possible C2 or scanning source/destination address
+TRN00179,domain,node-179-sync.example,Possible C2/phishing infrastructure domain
+TRN00179,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00189,ipv4,198.51.100.190,Possible C2 or scanning source/destination address
+TRN00189,domain,node-189-sync.example,Possible C2/phishing infrastructure domain
+TRN00189,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00189,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00190,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN00190,domain,node-190-sync.example,Possible C2/phishing infrastructure domain
+TRN00190,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00191,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN00191,domain,node-191-sync.example,Possible C2/phishing infrastructure domain
+TRN00191,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00196,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN00196,domain,node-196-sync.example,Possible C2/phishing infrastructure domain
+TRN00199,ipv4,198.51.100.200,Possible C2 or scanning source/destination address
+TRN00199,domain,node-199-sync.example,Possible C2/phishing infrastructure domain
+TRN00200,ipv4,198.51.100.201,Possible C2 or scanning source/destination address
+TRN00200,domain,node-200-sync.example,Possible C2/phishing infrastructure domain
+TRN00200,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00203,ipv4,198.51.100.204,Possible C2 or scanning source/destination address
+TRN00203,domain,node-203-sync.example,Possible C2/phishing infrastructure domain
+TRN00203,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00208,ipv4,198.51.100.209,Possible C2 or scanning source/destination address
+TRN00208,domain,node-208-sync.example,Possible C2/phishing infrastructure domain
+TRN00208,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00211,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN00211,domain,node-211-sync.example,Possible C2/phishing infrastructure domain
+TRN00211,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00216,ipv4,198.51.100.217,Possible C2 or scanning source/destination address
+TRN00216,domain,node-216-sync.example,Possible C2/phishing infrastructure domain
+TRN00216,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00222,ipv4,198.51.100.3,Possible C2 or scanning source/destination address
+TRN00222,domain,node-222-sync.example,Possible C2/phishing infrastructure domain
+TRN00223,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN00223,domain,node-223-sync.example,Possible C2/phishing infrastructure domain
+TRN00223,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00226,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN00226,domain,node-226-sync.example,Possible C2/phishing infrastructure domain
+TRN00229,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN00229,domain,node-229-sync.example,Possible C2/phishing infrastructure domain
+TRN00229,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00234,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN00234,domain,node-234-sync.example,Possible C2/phishing infrastructure domain
+TRN00234,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00238,ipv4,198.51.100.19,Possible C2 or scanning source/destination address
+TRN00238,domain,node-238-sync.example,Possible C2/phishing infrastructure domain
+TRN00238,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00245,ipv4,198.51.100.26,Possible C2 or scanning source/destination address
+TRN00245,domain,node-245-sync.example,Possible C2/phishing infrastructure domain
+TRN00250,ipv4,198.51.100.31,Possible C2 or scanning source/destination address
+TRN00250,domain,node-250-sync.example,Possible C2/phishing infrastructure domain
+TRN00252,ipv4,198.51.100.33,Possible C2 or scanning source/destination address
+TRN00252,domain,node-252-sync.example,Possible C2/phishing infrastructure domain
+TRN00257,ipv4,198.51.100.38,Possible C2 or scanning source/destination address
+TRN00257,domain,node-257-sync.example,Possible C2/phishing infrastructure domain
+TRN00257,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00266,ipv4,198.51.100.47,Possible C2 or scanning source/destination address
+TRN00266,domain,node-266-sync.example,Possible C2/phishing infrastructure domain
+TRN00266,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00268,ipv4,198.51.100.49,Possible C2 or scanning source/destination address
+TRN00268,domain,node-268-sync.example,Possible C2/phishing infrastructure domain
+TRN00269,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN00269,domain,node-269-sync.example,Possible C2/phishing infrastructure domain
+TRN00269,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00270,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN00270,domain,node-270-sync.example,Possible C2/phishing infrastructure domain
+TRN00270,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00270,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00272,ipv4,198.51.100.53,Possible C2 or scanning source/destination address
+TRN00272,domain,node-272-sync.example,Possible C2/phishing infrastructure domain
+TRN00272,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00276,ipv4,198.51.100.57,Possible C2 or scanning source/destination address
+TRN00276,domain,node-276-sync.example,Possible C2/phishing infrastructure domain
+TRN00278,ipv4,198.51.100.59,Possible C2 or scanning source/destination address
+TRN00278,domain,node-278-sync.example,Possible C2/phishing infrastructure domain
+TRN00282,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN00282,domain,node-282-sync.example,Possible C2/phishing infrastructure domain
+TRN00290,ipv4,198.51.100.71,Possible C2 or scanning source/destination address
+TRN00290,domain,node-290-sync.example,Possible C2/phishing infrastructure domain
+TRN00290,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00291,ipv4,198.51.100.72,Possible C2 or scanning source/destination address
+TRN00291,domain,node-291-sync.example,Possible C2/phishing infrastructure domain
+TRN00294,ipv4,198.51.100.75,Possible C2 or scanning source/destination address
+TRN00294,domain,node-294-sync.example,Possible C2/phishing infrastructure domain
+TRN00296,ipv4,198.51.100.77,Possible C2 or scanning source/destination address
+TRN00296,domain,node-296-sync.example,Possible C2/phishing infrastructure domain
+TRN00299,ipv4,198.51.100.80,Possible C2 or scanning source/destination address
+TRN00299,domain,node-299-sync.example,Possible C2/phishing infrastructure domain
+TRN00301,ipv4,198.51.100.82,Possible C2 or scanning source/destination address
+TRN00301,domain,node-301-sync.example,Possible C2/phishing infrastructure domain
+TRN00306,ipv4,198.51.100.87,Possible C2 or scanning source/destination address
+TRN00306,domain,node-306-sync.example,Possible C2/phishing infrastructure domain
+TRN00307,ipv4,198.51.100.88,Possible C2 or scanning source/destination address
+TRN00307,domain,node-307-sync.example,Possible C2/phishing infrastructure domain
+TRN00308,ipv4,198.51.100.89,Possible C2 or scanning source/destination address
+TRN00308,domain,node-308-sync.example,Possible C2/phishing infrastructure domain
+TRN00313,ipv4,198.51.100.94,Possible C2 or scanning source/destination address
+TRN00313,domain,node-313-sync.example,Possible C2/phishing infrastructure domain
+TRN00315,ipv4,198.51.100.96,Possible C2 or scanning source/destination address
+TRN00315,domain,node-315-sync.example,Possible C2/phishing infrastructure domain
+TRN00315,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00317,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN00317,domain,node-317-sync.example,Possible C2/phishing infrastructure domain
+TRN00317,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00322,ipv4,198.51.100.103,Possible C2 or scanning source/destination address
+TRN00322,domain,node-322-sync.example,Possible C2/phishing infrastructure domain
+TRN00324,ipv4,198.51.100.105,Possible C2 or scanning source/destination address
+TRN00324,domain,node-324-sync.example,Possible C2/phishing infrastructure domain
+TRN00326,ipv4,198.51.100.107,Possible C2 or scanning source/destination address
+TRN00326,domain,node-326-sync.example,Possible C2/phishing infrastructure domain
+TRN00328,ipv4,198.51.100.109,Possible C2 or scanning source/destination address
+TRN00328,domain,node-328-sync.example,Possible C2/phishing infrastructure domain
+TRN00328,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00329,ipv4,198.51.100.110,Possible C2 or scanning source/destination address
+TRN00329,domain,node-329-sync.example,Possible C2/phishing infrastructure domain
+TRN00329,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00330,ipv4,198.51.100.111,Possible C2 or scanning source/destination address
+TRN00330,domain,node-330-sync.example,Possible C2/phishing infrastructure domain
+TRN00331,ipv4,198.51.100.112,Possible C2 or scanning source/destination address
+TRN00331,domain,node-331-sync.example,Possible C2/phishing infrastructure domain
+TRN00335,ipv4,198.51.100.116,Possible C2 or scanning source/destination address
+TRN00335,domain,node-335-sync.example,Possible C2/phishing infrastructure domain
+TRN00338,ipv4,198.51.100.119,Possible C2 or scanning source/destination address
+TRN00338,domain,node-338-sync.example,Possible C2/phishing infrastructure domain
+TRN00342,ipv4,198.51.100.123,Possible C2 or scanning source/destination address
+TRN00342,domain,node-342-sync.example,Possible C2/phishing infrastructure domain
+TRN00342,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00344,ipv4,198.51.100.125,Possible C2 or scanning source/destination address
+TRN00344,domain,node-344-sync.example,Possible C2/phishing infrastructure domain
+TRN00344,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00345,ipv4,198.51.100.126,Possible C2 or scanning source/destination address
+TRN00345,domain,node-345-sync.example,Possible C2/phishing infrastructure domain
+TRN00348,ipv4,198.51.100.129,Possible C2 or scanning source/destination address
+TRN00348,domain,node-348-sync.example,Possible C2/phishing infrastructure domain
+TRN00351,ipv4,198.51.100.132,Possible C2 or scanning source/destination address
+TRN00351,domain,node-351-sync.example,Possible C2/phishing infrastructure domain
+TRN00354,ipv4,198.51.100.135,Possible C2 or scanning source/destination address
+TRN00354,domain,node-354-sync.example,Possible C2/phishing infrastructure domain
+TRN00356,ipv4,198.51.100.137,Possible C2 or scanning source/destination address
+TRN00356,domain,node-356-sync.example,Possible C2/phishing infrastructure domain
+TRN00356,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00361,ipv4,198.51.100.142,Possible C2 or scanning source/destination address
+TRN00361,domain,node-361-sync.example,Possible C2/phishing infrastructure domain
+TRN00363,ipv4,198.51.100.144,Possible C2 or scanning source/destination address
+TRN00363,domain,node-363-sync.example,Possible C2/phishing infrastructure domain
+TRN00365,ipv4,198.51.100.146,Possible C2 or scanning source/destination address
+TRN00365,domain,node-365-sync.example,Possible C2/phishing infrastructure domain
+TRN00367,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN00367,domain,node-367-sync.example,Possible C2/phishing infrastructure domain
+TRN00367,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00371,ipv4,198.51.100.152,Possible C2 or scanning source/destination address
+TRN00371,domain,node-371-sync.example,Possible C2/phishing infrastructure domain
+TRN00374,ipv4,198.51.100.155,Possible C2 or scanning source/destination address
+TRN00374,domain,node-374-sync.example,Possible C2/phishing infrastructure domain
+TRN00383,ipv4,198.51.100.164,Possible C2 or scanning source/destination address
+TRN00383,domain,node-383-sync.example,Possible C2/phishing infrastructure domain
+TRN00386,ipv4,198.51.100.167,Possible C2 or scanning source/destination address
+TRN00386,domain,node-386-sync.example,Possible C2/phishing infrastructure domain
+TRN00387,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN00387,domain,node-387-sync.example,Possible C2/phishing infrastructure domain
+TRN00392,ipv4,198.51.100.173,Possible C2 or scanning source/destination address
+TRN00392,domain,node-392-sync.example,Possible C2/phishing infrastructure domain
+TRN00392,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00393,ipv4,198.51.100.174,Possible C2 or scanning source/destination address
+TRN00393,domain,node-393-sync.example,Possible C2/phishing infrastructure domain
+TRN00393,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00395,ipv4,198.51.100.176,Possible C2 or scanning source/destination address
+TRN00395,domain,node-395-sync.example,Possible C2/phishing infrastructure domain
+TRN00397,ipv4,198.51.100.178,Possible C2 or scanning source/destination address
+TRN00397,domain,node-397-sync.example,Possible C2/phishing infrastructure domain
+TRN00399,ipv4,198.51.100.180,Possible C2 or scanning source/destination address
+TRN00399,domain,node-399-sync.example,Possible C2/phishing infrastructure domain
+TRN00403,ipv4,198.51.100.184,Possible C2 or scanning source/destination address
+TRN00403,domain,node-403-sync.example,Possible C2/phishing infrastructure domain
+TRN00405,ipv4,198.51.100.186,Possible C2 or scanning source/destination address
+TRN00405,domain,node-405-sync.example,Possible C2/phishing infrastructure domain
+TRN00405,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00405,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00406,ipv4,198.51.100.187,Possible C2 or scanning source/destination address
+TRN00406,domain,node-406-sync.example,Possible C2/phishing infrastructure domain
+TRN00407,ipv4,198.51.100.188,Possible C2 or scanning source/destination address
+TRN00407,domain,node-407-sync.example,Possible C2/phishing infrastructure domain
+TRN00408,ipv4,198.51.100.189,Possible C2 or scanning source/destination address
+TRN00408,domain,node-408-sync.example,Possible C2/phishing infrastructure domain
+TRN00408,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00411,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN00411,domain,node-411-sync.example,Possible C2/phishing infrastructure domain
+TRN00415,ipv4,198.51.100.196,Possible C2 or scanning source/destination address
+TRN00415,domain,node-415-sync.example,Possible C2/phishing infrastructure domain
+TRN00415,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00416,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN00416,domain,node-416-sync.example,Possible C2/phishing infrastructure domain
+TRN00420,ipv4,198.51.100.201,Possible C2 or scanning source/destination address
+TRN00420,domain,node-420-sync.example,Possible C2/phishing infrastructure domain
+TRN00420,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00420,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00421,ipv4,198.51.100.202,Possible C2 or scanning source/destination address
+TRN00421,domain,node-421-sync.example,Possible C2/phishing infrastructure domain
+TRN00425,ipv4,198.51.100.206,Possible C2 or scanning source/destination address
+TRN00425,domain,node-425-sync.example,Possible C2/phishing infrastructure domain
+TRN00430,ipv4,198.51.100.211,Possible C2 or scanning source/destination address
+TRN00430,domain,node-430-sync.example,Possible C2/phishing infrastructure domain
+TRN00430,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00443,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN00443,domain,node-443-sync.example,Possible C2/phishing infrastructure domain
+TRN00443,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00449,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN00449,domain,node-449-sync.example,Possible C2/phishing infrastructure domain
+TRN00453,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN00453,domain,node-453-sync.example,Possible C2/phishing infrastructure domain
+TRN00456,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN00456,domain,node-456-sync.example,Possible C2/phishing infrastructure domain
+TRN00457,ipv4,198.51.100.18,Possible C2 or scanning source/destination address
+TRN00457,domain,node-457-sync.example,Possible C2/phishing infrastructure domain
+TRN00458,ipv4,198.51.100.19,Possible C2 or scanning source/destination address
+TRN00458,domain,node-458-sync.example,Possible C2/phishing infrastructure domain
+TRN00458,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00460,ipv4,198.51.100.21,Possible C2 or scanning source/destination address
+TRN00460,domain,node-460-sync.example,Possible C2/phishing infrastructure domain
+TRN00460,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00463,ipv4,198.51.100.24,Possible C2 or scanning source/destination address
+TRN00463,domain,node-463-sync.example,Possible C2/phishing infrastructure domain
+TRN00468,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN00468,domain,node-468-sync.example,Possible C2/phishing infrastructure domain
+TRN00468,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00469,ipv4,198.51.100.30,Possible C2 or scanning source/destination address
+TRN00469,domain,node-469-sync.example,Possible C2/phishing infrastructure domain
+TRN00474,ipv4,198.51.100.35,Possible C2 or scanning source/destination address
+TRN00474,domain,node-474-sync.example,Possible C2/phishing infrastructure domain
+TRN00474,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00475,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN00475,domain,node-475-sync.example,Possible C2/phishing infrastructure domain
+TRN00475,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00476,ipv4,198.51.100.37,Possible C2 or scanning source/destination address
+TRN00476,domain,node-476-sync.example,Possible C2/phishing infrastructure domain
+TRN00481,ipv4,198.51.100.42,Possible C2 or scanning source/destination address
+TRN00481,domain,node-481-sync.example,Possible C2/phishing infrastructure domain
+TRN00481,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00483,ipv4,198.51.100.44,Possible C2 or scanning source/destination address
+TRN00483,domain,node-483-sync.example,Possible C2/phishing infrastructure domain
+TRN00489,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN00489,domain,node-489-sync.example,Possible C2/phishing infrastructure domain
+TRN00494,ipv4,198.51.100.55,Possible C2 or scanning source/destination address
+TRN00494,domain,node-494-sync.example,Possible C2/phishing infrastructure domain
+TRN00494,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00495,ipv4,198.51.100.56,Possible C2 or scanning source/destination address
+TRN00495,domain,node-495-sync.example,Possible C2/phishing infrastructure domain
+TRN00495,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00498,ipv4,198.51.100.59,Possible C2 or scanning source/destination address
+TRN00498,domain,node-498-sync.example,Possible C2/phishing infrastructure domain
+TRN00498,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00503,ipv4,198.51.100.64,Possible C2 or scanning source/destination address
+TRN00503,domain,node-503-sync.example,Possible C2/phishing infrastructure domain
+TRN00507,ipv4,198.51.100.68,Possible C2 or scanning source/destination address
+TRN00507,domain,node-507-sync.example,Possible C2/phishing infrastructure domain
+TRN00507,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00508,ipv4,198.51.100.69,Possible C2 or scanning source/destination address
+TRN00508,domain,node-508-sync.example,Possible C2/phishing infrastructure domain
+TRN00512,ipv4,198.51.100.73,Possible C2 or scanning source/destination address
+TRN00512,domain,node-512-sync.example,Possible C2/phishing infrastructure domain
+TRN00513,ipv4,198.51.100.74,Possible C2 or scanning source/destination address
+TRN00513,domain,node-513-sync.example,Possible C2/phishing infrastructure domain
+TRN00513,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00515,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN00515,domain,node-515-sync.example,Possible C2/phishing infrastructure domain
+TRN00516,ipv4,198.51.100.77,Possible C2 or scanning source/destination address
+TRN00516,domain,node-516-sync.example,Possible C2/phishing infrastructure domain
+TRN00518,ipv4,198.51.100.79,Possible C2 or scanning source/destination address
+TRN00518,domain,node-518-sync.example,Possible C2/phishing infrastructure domain
+TRN00519,ipv4,198.51.100.80,Possible C2 or scanning source/destination address
+TRN00519,domain,node-519-sync.example,Possible C2/phishing infrastructure domain
+TRN00519,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00532,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN00532,domain,node-532-sync.example,Possible C2/phishing infrastructure domain
+TRN00534,ipv4,198.51.100.95,Possible C2 or scanning source/destination address
+TRN00534,domain,node-534-sync.example,Possible C2/phishing infrastructure domain
+TRN00536,ipv4,198.51.100.97,Possible C2 or scanning source/destination address
+TRN00536,domain,node-536-sync.example,Possible C2/phishing infrastructure domain
+TRN00536,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00537,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN00537,domain,node-537-sync.example,Possible C2/phishing infrastructure domain
+TRN00541,ipv4,198.51.100.102,Possible C2 or scanning source/destination address
+TRN00541,domain,node-541-sync.example,Possible C2/phishing infrastructure domain
+TRN00546,ipv4,198.51.100.107,Possible C2 or scanning source/destination address
+TRN00546,domain,node-546-sync.example,Possible C2/phishing infrastructure domain
+TRN00549,ipv4,198.51.100.110,Possible C2 or scanning source/destination address
+TRN00549,domain,node-549-sync.example,Possible C2/phishing infrastructure domain
+TRN00551,ipv4,198.51.100.112,Possible C2 or scanning source/destination address
+TRN00551,domain,node-551-sync.example,Possible C2/phishing infrastructure domain
+TRN00551,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00554,ipv4,198.51.100.115,Possible C2 or scanning source/destination address
+TRN00554,domain,node-554-sync.example,Possible C2/phishing infrastructure domain
+TRN00557,ipv4,198.51.100.118,Possible C2 or scanning source/destination address
+TRN00557,domain,node-557-sync.example,Possible C2/phishing infrastructure domain
+TRN00559,ipv4,198.51.100.120,Possible C2 or scanning source/destination address
+TRN00559,domain,node-559-sync.example,Possible C2/phishing infrastructure domain
+TRN00559,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00560,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN00560,domain,node-560-sync.example,Possible C2/phishing infrastructure domain
+TRN00564,ipv4,198.51.100.125,Possible C2 or scanning source/destination address
+TRN00564,domain,node-564-sync.example,Possible C2/phishing infrastructure domain
+TRN00564,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00564,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00566,ipv4,198.51.100.127,Possible C2 or scanning source/destination address
+TRN00566,domain,node-566-sync.example,Possible C2/phishing infrastructure domain
+TRN00567,ipv4,198.51.100.128,Possible C2 or scanning source/destination address
+TRN00567,domain,node-567-sync.example,Possible C2/phishing infrastructure domain
+TRN00570,ipv4,198.51.100.131,Possible C2 or scanning source/destination address
+TRN00570,domain,node-570-sync.example,Possible C2/phishing infrastructure domain
+TRN00572,ipv4,198.51.100.133,Possible C2 or scanning source/destination address
+TRN00572,domain,node-572-sync.example,Possible C2/phishing infrastructure domain
+TRN00572,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00573,ipv4,198.51.100.134,Possible C2 or scanning source/destination address
+TRN00573,domain,node-573-sync.example,Possible C2/phishing infrastructure domain
+TRN00575,ipv4,198.51.100.136,Possible C2 or scanning source/destination address
+TRN00575,domain,node-575-sync.example,Possible C2/phishing infrastructure domain
+TRN00582,ipv4,198.51.100.143,Possible C2 or scanning source/destination address
+TRN00582,domain,node-582-sync.example,Possible C2/phishing infrastructure domain
+TRN00588,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN00588,domain,node-588-sync.example,Possible C2/phishing infrastructure domain
+TRN00590,ipv4,198.51.100.151,Possible C2 or scanning source/destination address
+TRN00590,domain,node-590-sync.example,Possible C2/phishing infrastructure domain
+TRN00592,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN00592,domain,node-592-sync.example,Possible C2/phishing infrastructure domain
+TRN00593,ipv4,198.51.100.154,Possible C2 or scanning source/destination address
+TRN00593,domain,node-593-sync.example,Possible C2/phishing infrastructure domain
+TRN00594,ipv4,198.51.100.155,Possible C2 or scanning source/destination address
+TRN00594,domain,node-594-sync.example,Possible C2/phishing infrastructure domain
+TRN00594,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00595,ipv4,198.51.100.156,Possible C2 or scanning source/destination address
+TRN00595,domain,node-595-sync.example,Possible C2/phishing infrastructure domain
+TRN00596,ipv4,198.51.100.157,Possible C2 or scanning source/destination address
+TRN00596,domain,node-596-sync.example,Possible C2/phishing infrastructure domain
+TRN00596,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00600,ipv4,198.51.100.161,Possible C2 or scanning source/destination address
+TRN00600,domain,node-600-sync.example,Possible C2/phishing infrastructure domain
+TRN00600,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00601,ipv4,198.51.100.162,Possible C2 or scanning source/destination address
+TRN00601,domain,node-601-sync.example,Possible C2/phishing infrastructure domain
+TRN00602,ipv4,198.51.100.163,Possible C2 or scanning source/destination address
+TRN00602,domain,node-602-sync.example,Possible C2/phishing infrastructure domain
+TRN00604,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN00604,domain,node-604-sync.example,Possible C2/phishing infrastructure domain
+TRN00618,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN00618,domain,node-618-sync.example,Possible C2/phishing infrastructure domain
+TRN00618,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00619,ipv4,198.51.100.180,Possible C2 or scanning source/destination address
+TRN00619,domain,node-619-sync.example,Possible C2/phishing infrastructure domain
+TRN00621,ipv4,198.51.100.182,Possible C2 or scanning source/destination address
+TRN00621,domain,node-621-sync.example,Possible C2/phishing infrastructure domain
+TRN00622,ipv4,198.51.100.183,Possible C2 or scanning source/destination address
+TRN00622,domain,node-622-sync.example,Possible C2/phishing infrastructure domain
+TRN00630,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN00630,domain,node-630-sync.example,Possible C2/phishing infrastructure domain
+TRN00631,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN00631,domain,node-631-sync.example,Possible C2/phishing infrastructure domain
+TRN00640,ipv4,198.51.100.201,Possible C2 or scanning source/destination address
+TRN00640,domain,node-640-sync.example,Possible C2/phishing infrastructure domain
+TRN00642,ipv4,198.51.100.203,Possible C2 or scanning source/destination address
+TRN00642,domain,node-642-sync.example,Possible C2/phishing infrastructure domain
+TRN00642,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00642,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00643,ipv4,198.51.100.204,Possible C2 or scanning source/destination address
+TRN00643,domain,node-643-sync.example,Possible C2/phishing infrastructure domain
+TRN00643,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00648,ipv4,198.51.100.209,Possible C2 or scanning source/destination address
+TRN00648,domain,node-648-sync.example,Possible C2/phishing infrastructure domain
+TRN00648,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00655,ipv4,198.51.100.216,Possible C2 or scanning source/destination address
+TRN00655,domain,node-655-sync.example,Possible C2/phishing infrastructure domain
+TRN00657,ipv4,198.51.100.218,Possible C2 or scanning source/destination address
+TRN00657,domain,node-657-sync.example,Possible C2/phishing infrastructure domain
+TRN00659,ipv4,198.51.100.220,Possible C2 or scanning source/destination address
+TRN00659,domain,node-659-sync.example,Possible C2/phishing infrastructure domain
+TRN00659,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00660,ipv4,198.51.100.1,Possible C2 or scanning source/destination address
+TRN00660,domain,node-660-sync.example,Possible C2/phishing infrastructure domain
+TRN00661,ipv4,198.51.100.2,Possible C2 or scanning source/destination address
+TRN00661,domain,node-661-sync.example,Possible C2/phishing infrastructure domain
+TRN00662,ipv4,198.51.100.3,Possible C2 or scanning source/destination address
+TRN00662,domain,node-662-sync.example,Possible C2/phishing infrastructure domain
+TRN00663,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN00663,domain,node-663-sync.example,Possible C2/phishing infrastructure domain
+TRN00664,ipv4,198.51.100.5,Possible C2 or scanning source/destination address
+TRN00664,domain,node-664-sync.example,Possible C2/phishing infrastructure domain
+TRN00664,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00666,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN00666,domain,node-666-sync.example,Possible C2/phishing infrastructure domain
+TRN00667,ipv4,198.51.100.8,Possible C2 or scanning source/destination address
+TRN00667,domain,node-667-sync.example,Possible C2/phishing infrastructure domain
+TRN00667,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00669,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN00669,domain,node-669-sync.example,Possible C2/phishing infrastructure domain
+TRN00669,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00670,ipv4,198.51.100.11,Possible C2 or scanning source/destination address
+TRN00670,domain,node-670-sync.example,Possible C2/phishing infrastructure domain
+TRN00673,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN00673,domain,node-673-sync.example,Possible C2/phishing infrastructure domain
+TRN00673,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00674,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN00674,domain,node-674-sync.example,Possible C2/phishing infrastructure domain
+TRN00674,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00675,ipv4,198.51.100.16,Possible C2 or scanning source/destination address
+TRN00675,domain,node-675-sync.example,Possible C2/phishing infrastructure domain
+TRN00675,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00676,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN00676,domain,node-676-sync.example,Possible C2/phishing infrastructure domain
+TRN00676,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00681,ipv4,198.51.100.22,Possible C2 or scanning source/destination address
+TRN00681,domain,node-681-sync.example,Possible C2/phishing infrastructure domain
+TRN00683,ipv4,198.51.100.24,Possible C2 or scanning source/destination address
+TRN00683,domain,node-683-sync.example,Possible C2/phishing infrastructure domain
+TRN00685,ipv4,198.51.100.26,Possible C2 or scanning source/destination address
+TRN00685,domain,node-685-sync.example,Possible C2/phishing infrastructure domain
+TRN00688,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN00688,domain,node-688-sync.example,Possible C2/phishing infrastructure domain
+TRN00695,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN00695,domain,node-695-sync.example,Possible C2/phishing infrastructure domain
+TRN00702,ipv4,198.51.100.43,Possible C2 or scanning source/destination address
+TRN00702,domain,node-702-sync.example,Possible C2/phishing infrastructure domain
+TRN00702,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00705,ipv4,198.51.100.46,Possible C2 or scanning source/destination address
+TRN00705,domain,node-705-sync.example,Possible C2/phishing infrastructure domain
+TRN00706,ipv4,198.51.100.47,Possible C2 or scanning source/destination address
+TRN00706,domain,node-706-sync.example,Possible C2/phishing infrastructure domain
+TRN00706,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00708,ipv4,198.51.100.49,Possible C2 or scanning source/destination address
+TRN00708,domain,node-708-sync.example,Possible C2/phishing infrastructure domain
+TRN00708,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00709,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN00709,domain,node-709-sync.example,Possible C2/phishing infrastructure domain
+TRN00711,ipv4,198.51.100.52,Possible C2 or scanning source/destination address
+TRN00711,domain,node-711-sync.example,Possible C2/phishing infrastructure domain
+TRN00712,ipv4,198.51.100.53,Possible C2 or scanning source/destination address
+TRN00712,domain,node-712-sync.example,Possible C2/phishing infrastructure domain
+TRN00717,ipv4,198.51.100.58,Possible C2 or scanning source/destination address
+TRN00717,domain,node-717-sync.example,Possible C2/phishing infrastructure domain
+TRN00719,ipv4,198.51.100.60,Possible C2 or scanning source/destination address
+TRN00719,domain,node-719-sync.example,Possible C2/phishing infrastructure domain
+TRN00721,ipv4,198.51.100.62,Possible C2 or scanning source/destination address
+TRN00721,domain,node-721-sync.example,Possible C2/phishing infrastructure domain
+TRN00721,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00726,ipv4,198.51.100.67,Possible C2 or scanning source/destination address
+TRN00726,domain,node-726-sync.example,Possible C2/phishing infrastructure domain
+TRN00728,ipv4,198.51.100.69,Possible C2 or scanning source/destination address
+TRN00728,domain,node-728-sync.example,Possible C2/phishing infrastructure domain
+TRN00728,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00736,ipv4,198.51.100.77,Possible C2 or scanning source/destination address
+TRN00736,domain,node-736-sync.example,Possible C2/phishing infrastructure domain
+TRN00736,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00737,ipv4,198.51.100.78,Possible C2 or scanning source/destination address
+TRN00737,domain,node-737-sync.example,Possible C2/phishing infrastructure domain
+TRN00737,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00739,ipv4,198.51.100.80,Possible C2 or scanning source/destination address
+TRN00739,domain,node-739-sync.example,Possible C2/phishing infrastructure domain
+TRN00740,ipv4,198.51.100.81,Possible C2 or scanning source/destination address
+TRN00740,domain,node-740-sync.example,Possible C2/phishing infrastructure domain
+TRN00744,ipv4,198.51.100.85,Possible C2 or scanning source/destination address
+TRN00744,domain,node-744-sync.example,Possible C2/phishing infrastructure domain
+TRN00745,ipv4,198.51.100.86,Possible C2 or scanning source/destination address
+TRN00745,domain,node-745-sync.example,Possible C2/phishing infrastructure domain
+TRN00749,ipv4,198.51.100.90,Possible C2 or scanning source/destination address
+TRN00749,domain,node-749-sync.example,Possible C2/phishing infrastructure domain
+TRN00752,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN00752,domain,node-752-sync.example,Possible C2/phishing infrastructure domain
+TRN00752,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00758,ipv4,198.51.100.99,Possible C2 or scanning source/destination address
+TRN00758,domain,node-758-sync.example,Possible C2/phishing infrastructure domain
+TRN00764,ipv4,198.51.100.105,Possible C2 or scanning source/destination address
+TRN00764,domain,node-764-sync.example,Possible C2/phishing infrastructure domain
+TRN00770,ipv4,198.51.100.111,Possible C2 or scanning source/destination address
+TRN00770,domain,node-770-sync.example,Possible C2/phishing infrastructure domain
+TRN00772,ipv4,198.51.100.113,Possible C2 or scanning source/destination address
+TRN00772,domain,node-772-sync.example,Possible C2/phishing infrastructure domain
+TRN00773,ipv4,198.51.100.114,Possible C2 or scanning source/destination address
+TRN00773,domain,node-773-sync.example,Possible C2/phishing infrastructure domain
+TRN00773,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00774,ipv4,198.51.100.115,Possible C2 or scanning source/destination address
+TRN00774,domain,node-774-sync.example,Possible C2/phishing infrastructure domain
+TRN00776,ipv4,198.51.100.117,Possible C2 or scanning source/destination address
+TRN00776,domain,node-776-sync.example,Possible C2/phishing infrastructure domain
+TRN00778,ipv4,198.51.100.119,Possible C2 or scanning source/destination address
+TRN00778,domain,node-778-sync.example,Possible C2/phishing infrastructure domain
+TRN00778,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00780,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN00780,domain,node-780-sync.example,Possible C2/phishing infrastructure domain
+TRN00781,ipv4,198.51.100.122,Possible C2 or scanning source/destination address
+TRN00781,domain,node-781-sync.example,Possible C2/phishing infrastructure domain
+TRN00781,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00782,ipv4,198.51.100.123,Possible C2 or scanning source/destination address
+TRN00782,domain,node-782-sync.example,Possible C2/phishing infrastructure domain
+TRN00785,ipv4,198.51.100.126,Possible C2 or scanning source/destination address
+TRN00785,domain,node-785-sync.example,Possible C2/phishing infrastructure domain
+TRN00793,ipv4,198.51.100.134,Possible C2 or scanning source/destination address
+TRN00793,domain,node-793-sync.example,Possible C2/phishing infrastructure domain
+TRN00793,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00799,ipv4,198.51.100.140,Possible C2 or scanning source/destination address
+TRN00799,domain,node-799-sync.example,Possible C2/phishing infrastructure domain
+TRN00800,ipv4,198.51.100.141,Possible C2 or scanning source/destination address
+TRN00800,domain,node-800-sync.example,Possible C2/phishing infrastructure domain
+TRN00800,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00801,ipv4,198.51.100.142,Possible C2 or scanning source/destination address
+TRN00801,domain,node-801-sync.example,Possible C2/phishing infrastructure domain
+TRN00807,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN00807,domain,node-807-sync.example,Possible C2/phishing infrastructure domain
+TRN00807,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00808,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN00808,domain,node-808-sync.example,Possible C2/phishing infrastructure domain
+TRN00808,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00809,ipv4,198.51.100.150,Possible C2 or scanning source/destination address
+TRN00809,domain,node-809-sync.example,Possible C2/phishing infrastructure domain
+TRN00812,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN00812,domain,node-812-sync.example,Possible C2/phishing infrastructure domain
+TRN00812,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00813,ipv4,198.51.100.154,Possible C2 or scanning source/destination address
+TRN00813,domain,node-813-sync.example,Possible C2/phishing infrastructure domain
+TRN00813,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00815,ipv4,198.51.100.156,Possible C2 or scanning source/destination address
+TRN00815,domain,node-815-sync.example,Possible C2/phishing infrastructure domain
+TRN00815,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00816,ipv4,198.51.100.157,Possible C2 or scanning source/destination address
+TRN00816,domain,node-816-sync.example,Possible C2/phishing infrastructure domain
+TRN00823,ipv4,198.51.100.164,Possible C2 or scanning source/destination address
+TRN00823,domain,node-823-sync.example,Possible C2/phishing infrastructure domain
+TRN00826,ipv4,198.51.100.167,Possible C2 or scanning source/destination address
+TRN00826,domain,node-826-sync.example,Possible C2/phishing infrastructure domain
+TRN00827,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN00827,domain,node-827-sync.example,Possible C2/phishing infrastructure domain
+TRN00829,ipv4,198.51.100.170,Possible C2 or scanning source/destination address
+TRN00829,domain,node-829-sync.example,Possible C2/phishing infrastructure domain
+TRN00830,ipv4,198.51.100.171,Possible C2 or scanning source/destination address
+TRN00830,domain,node-830-sync.example,Possible C2/phishing infrastructure domain
+TRN00836,ipv4,198.51.100.177,Possible C2 or scanning source/destination address
+TRN00836,domain,node-836-sync.example,Possible C2/phishing infrastructure domain
+TRN00837,ipv4,198.51.100.178,Possible C2 or scanning source/destination address
+TRN00837,domain,node-837-sync.example,Possible C2/phishing infrastructure domain
+TRN00838,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN00838,domain,node-838-sync.example,Possible C2/phishing infrastructure domain
+TRN00842,ipv4,198.51.100.183,Possible C2 or scanning source/destination address
+TRN00842,domain,node-842-sync.example,Possible C2/phishing infrastructure domain
+TRN00850,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN00850,domain,node-850-sync.example,Possible C2/phishing infrastructure domain
+TRN00851,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN00851,domain,node-851-sync.example,Possible C2/phishing infrastructure domain
+TRN00854,ipv4,198.51.100.195,Possible C2 or scanning source/destination address
+TRN00854,domain,node-854-sync.example,Possible C2/phishing infrastructure domain
+TRN00854,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00855,ipv4,198.51.100.196,Possible C2 or scanning source/destination address
+TRN00855,domain,node-855-sync.example,Possible C2/phishing infrastructure domain
+TRN00856,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN00856,domain,node-856-sync.example,Possible C2/phishing infrastructure domain
+TRN00858,ipv4,198.51.100.199,Possible C2 or scanning source/destination address
+TRN00858,domain,node-858-sync.example,Possible C2/phishing infrastructure domain
+TRN00858,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00869,ipv4,198.51.100.210,Possible C2 or scanning source/destination address
+TRN00869,domain,node-869-sync.example,Possible C2/phishing infrastructure domain
+TRN00870,ipv4,198.51.100.211,Possible C2 or scanning source/destination address
+TRN00870,domain,node-870-sync.example,Possible C2/phishing infrastructure domain
+TRN00870,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00871,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN00871,domain,node-871-sync.example,Possible C2/phishing infrastructure domain
+TRN00871,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00873,ipv4,198.51.100.214,Possible C2 or scanning source/destination address
+TRN00873,domain,node-873-sync.example,Possible C2/phishing infrastructure domain
+TRN00877,ipv4,198.51.100.218,Possible C2 or scanning source/destination address
+TRN00877,domain,node-877-sync.example,Possible C2/phishing infrastructure domain
+TRN00877,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00880,ipv4,198.51.100.1,Possible C2 or scanning source/destination address
+TRN00880,domain,node-880-sync.example,Possible C2/phishing infrastructure domain
+TRN00880,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00883,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN00883,domain,node-883-sync.example,Possible C2/phishing infrastructure domain
+TRN00886,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN00886,domain,node-886-sync.example,Possible C2/phishing infrastructure domain
+TRN00892,ipv4,198.51.100.13,Possible C2 or scanning source/destination address
+TRN00892,domain,node-892-sync.example,Possible C2/phishing infrastructure domain
+TRN00892,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00893,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN00893,domain,node-893-sync.example,Possible C2/phishing infrastructure domain
+TRN00894,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN00894,domain,node-894-sync.example,Possible C2/phishing infrastructure domain
+TRN00895,ipv4,198.51.100.16,Possible C2 or scanning source/destination address
+TRN00895,domain,node-895-sync.example,Possible C2/phishing infrastructure domain
+TRN00897,ipv4,198.51.100.18,Possible C2 or scanning source/destination address
+TRN00897,domain,node-897-sync.example,Possible C2/phishing infrastructure domain
+TRN00905,ipv4,198.51.100.26,Possible C2 or scanning source/destination address
+TRN00905,domain,node-905-sync.example,Possible C2/phishing infrastructure domain
+TRN00908,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN00908,domain,node-908-sync.example,Possible C2/phishing infrastructure domain
+TRN00910,ipv4,198.51.100.31,Possible C2 or scanning source/destination address
+TRN00910,domain,node-910-sync.example,Possible C2/phishing infrastructure domain
+TRN00915,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN00915,domain,node-915-sync.example,Possible C2/phishing infrastructure domain
+TRN00915,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00924,ipv4,198.51.100.45,Possible C2 or scanning source/destination address
+TRN00924,domain,node-924-sync.example,Possible C2/phishing infrastructure domain
+TRN00924,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00927,ipv4,198.51.100.48,Possible C2 or scanning source/destination address
+TRN00927,domain,node-927-sync.example,Possible C2/phishing infrastructure domain
+TRN00930,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN00930,domain,node-930-sync.example,Possible C2/phishing infrastructure domain
+TRN00931,ipv4,198.51.100.52,Possible C2 or scanning source/destination address
+TRN00931,domain,node-931-sync.example,Possible C2/phishing infrastructure domain
+TRN00931,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00933,ipv4,198.51.100.54,Possible C2 or scanning source/destination address
+TRN00933,domain,node-933-sync.example,Possible C2/phishing infrastructure domain
+TRN00934,ipv4,198.51.100.55,Possible C2 or scanning source/destination address
+TRN00934,domain,node-934-sync.example,Possible C2/phishing infrastructure domain
+TRN00942,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN00942,domain,node-942-sync.example,Possible C2/phishing infrastructure domain
+TRN00945,ipv4,198.51.100.66,Possible C2 or scanning source/destination address
+TRN00945,domain,node-945-sync.example,Possible C2/phishing infrastructure domain
+TRN00945,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN00946,ipv4,198.51.100.67,Possible C2 or scanning source/destination address
+TRN00946,domain,node-946-sync.example,Possible C2/phishing infrastructure domain
+TRN00949,ipv4,198.51.100.70,Possible C2 or scanning source/destination address
+TRN00949,domain,node-949-sync.example,Possible C2/phishing infrastructure domain
+TRN00949,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00949,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00950,ipv4,198.51.100.71,Possible C2 or scanning source/destination address
+TRN00950,domain,node-950-sync.example,Possible C2/phishing infrastructure domain
+TRN00952,ipv4,198.51.100.73,Possible C2 or scanning source/destination address
+TRN00952,domain,node-952-sync.example,Possible C2/phishing infrastructure domain
+TRN00955,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN00955,domain,node-955-sync.example,Possible C2/phishing infrastructure domain
+TRN00961,ipv4,198.51.100.82,Possible C2 or scanning source/destination address
+TRN00961,domain,node-961-sync.example,Possible C2/phishing infrastructure domain
+TRN00963,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN00963,domain,node-963-sync.example,Possible C2/phishing infrastructure domain
+TRN00964,ipv4,198.51.100.85,Possible C2 or scanning source/destination address
+TRN00964,domain,node-964-sync.example,Possible C2/phishing infrastructure domain
+TRN00966,ipv4,198.51.100.87,Possible C2 or scanning source/destination address
+TRN00966,domain,node-966-sync.example,Possible C2/phishing infrastructure domain
+TRN00972,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN00972,domain,node-972-sync.example,Possible C2/phishing infrastructure domain
+TRN00979,ipv4,198.51.100.100,Possible C2 or scanning source/destination address
+TRN00979,domain,node-979-sync.example,Possible C2/phishing infrastructure domain
+TRN00979,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00982,ipv4,198.51.100.103,Possible C2 or scanning source/destination address
+TRN00982,domain,node-982-sync.example,Possible C2/phishing infrastructure domain
+TRN00984,ipv4,198.51.100.105,Possible C2 or scanning source/destination address
+TRN00984,domain,node-984-sync.example,Possible C2/phishing infrastructure domain
+TRN00984,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN00988,ipv4,198.51.100.109,Possible C2 or scanning source/destination address
+TRN00988,domain,node-988-sync.example,Possible C2/phishing infrastructure domain
+TRN00989,ipv4,198.51.100.110,Possible C2 or scanning source/destination address
+TRN00989,domain,node-989-sync.example,Possible C2/phishing infrastructure domain
+TRN00990,ipv4,198.51.100.111,Possible C2 or scanning source/destination address
+TRN00990,domain,node-990-sync.example,Possible C2/phishing infrastructure domain
+TRN00990,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN00991,ipv4,198.51.100.112,Possible C2 or scanning source/destination address
+TRN00991,domain,node-991-sync.example,Possible C2/phishing infrastructure domain
+TRN00991,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01001,ipv4,198.51.100.122,Possible C2 or scanning source/destination address
+TRN01001,domain,node-1001-sync.example,Possible C2/phishing infrastructure domain
+TRN01001,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01005,ipv4,198.51.100.126,Possible C2 or scanning source/destination address
+TRN01005,domain,node-1005-sync.example,Possible C2/phishing infrastructure domain
+TRN01005,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01006,ipv4,198.51.100.127,Possible C2 or scanning source/destination address
+TRN01006,domain,node-1006-sync.example,Possible C2/phishing infrastructure domain
+TRN01009,ipv4,198.51.100.130,Possible C2 or scanning source/destination address
+TRN01009,domain,node-1009-sync.example,Possible C2/phishing infrastructure domain
+TRN01020,ipv4,198.51.100.141,Possible C2 or scanning source/destination address
+TRN01020,domain,node-1020-sync.example,Possible C2/phishing infrastructure domain
+TRN01028,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN01028,domain,node-1028-sync.example,Possible C2/phishing infrastructure domain
+TRN01028,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01032,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN01032,domain,node-1032-sync.example,Possible C2/phishing infrastructure domain
+TRN01038,ipv4,198.51.100.159,Possible C2 or scanning source/destination address
+TRN01038,domain,node-1038-sync.example,Possible C2/phishing infrastructure domain
+TRN01043,ipv4,198.51.100.164,Possible C2 or scanning source/destination address
+TRN01043,domain,node-1043-sync.example,Possible C2/phishing infrastructure domain
+TRN01043,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01044,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN01044,domain,node-1044-sync.example,Possible C2/phishing infrastructure domain
+TRN01047,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN01047,domain,node-1047-sync.example,Possible C2/phishing infrastructure domain
+TRN01047,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01047,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01048,ipv4,198.51.100.169,Possible C2 or scanning source/destination address
+TRN01048,domain,node-1048-sync.example,Possible C2/phishing infrastructure domain
+TRN01048,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01049,ipv4,198.51.100.170,Possible C2 or scanning source/destination address
+TRN01049,domain,node-1049-sync.example,Possible C2/phishing infrastructure domain
+TRN01058,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN01058,domain,node-1058-sync.example,Possible C2/phishing infrastructure domain
+TRN01059,ipv4,198.51.100.180,Possible C2 or scanning source/destination address
+TRN01059,domain,node-1059-sync.example,Possible C2/phishing infrastructure domain
+TRN01063,ipv4,198.51.100.184,Possible C2 or scanning source/destination address
+TRN01063,domain,node-1063-sync.example,Possible C2/phishing infrastructure domain
+TRN01064,ipv4,198.51.100.185,Possible C2 or scanning source/destination address
+TRN01064,domain,node-1064-sync.example,Possible C2/phishing infrastructure domain
+TRN01064,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01070,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN01070,domain,node-1070-sync.example,Possible C2/phishing infrastructure domain
+TRN01072,ipv4,198.51.100.193,Possible C2 or scanning source/destination address
+TRN01072,domain,node-1072-sync.example,Possible C2/phishing infrastructure domain
+TRN01074,ipv4,198.51.100.195,Possible C2 or scanning source/destination address
+TRN01074,domain,node-1074-sync.example,Possible C2/phishing infrastructure domain
+TRN01076,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN01076,domain,node-1076-sync.example,Possible C2/phishing infrastructure domain
+TRN01076,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01081,ipv4,198.51.100.202,Possible C2 or scanning source/destination address
+TRN01081,domain,node-1081-sync.example,Possible C2/phishing infrastructure domain
+TRN01084,ipv4,198.51.100.205,Possible C2 or scanning source/destination address
+TRN01084,domain,node-1084-sync.example,Possible C2/phishing infrastructure domain
+TRN01088,ipv4,198.51.100.209,Possible C2 or scanning source/destination address
+TRN01088,domain,node-1088-sync.example,Possible C2/phishing infrastructure domain
+TRN01089,ipv4,198.51.100.210,Possible C2 or scanning source/destination address
+TRN01089,domain,node-1089-sync.example,Possible C2/phishing infrastructure domain
+TRN01089,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01091,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN01091,domain,node-1091-sync.example,Possible C2/phishing infrastructure domain
+TRN01091,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01093,ipv4,198.51.100.214,Possible C2 or scanning source/destination address
+TRN01093,domain,node-1093-sync.example,Possible C2/phishing infrastructure domain
+TRN01095,ipv4,198.51.100.216,Possible C2 or scanning source/destination address
+TRN01095,domain,node-1095-sync.example,Possible C2/phishing infrastructure domain
+TRN01097,ipv4,198.51.100.218,Possible C2 or scanning source/destination address
+TRN01097,domain,node-1097-sync.example,Possible C2/phishing infrastructure domain
+TRN01099,ipv4,198.51.100.220,Possible C2 or scanning source/destination address
+TRN01099,domain,node-1099-sync.example,Possible C2/phishing infrastructure domain
+TRN01099,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01100,ipv4,198.51.100.1,Possible C2 or scanning source/destination address
+TRN01100,domain,node-1100-sync.example,Possible C2/phishing infrastructure domain
+TRN01100,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01101,ipv4,198.51.100.2,Possible C2 or scanning source/destination address
+TRN01101,domain,node-1101-sync.example,Possible C2/phishing infrastructure domain
+TRN01103,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN01103,domain,node-1103-sync.example,Possible C2/phishing infrastructure domain
+TRN01106,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN01106,domain,node-1106-sync.example,Possible C2/phishing infrastructure domain
+TRN01108,ipv4,198.51.100.9,Possible C2 or scanning source/destination address
+TRN01108,domain,node-1108-sync.example,Possible C2/phishing infrastructure domain
+TRN01109,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN01109,domain,node-1109-sync.example,Possible C2/phishing infrastructure domain
+TRN01109,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01111,ipv4,198.51.100.12,Possible C2 or scanning source/destination address
+TRN01111,domain,node-1111-sync.example,Possible C2/phishing infrastructure domain
+TRN01113,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN01113,domain,node-1113-sync.example,Possible C2/phishing infrastructure domain
+TRN01114,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN01114,domain,node-1114-sync.example,Possible C2/phishing infrastructure domain
+TRN01114,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01115,ipv4,198.51.100.16,Possible C2 or scanning source/destination address
+TRN01115,domain,node-1115-sync.example,Possible C2/phishing infrastructure domain
+TRN01116,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN01116,domain,node-1116-sync.example,Possible C2/phishing infrastructure domain
+TRN01117,ipv4,198.51.100.18,Possible C2 or scanning source/destination address
+TRN01117,domain,node-1117-sync.example,Possible C2/phishing infrastructure domain
+TRN01120,ipv4,198.51.100.21,Possible C2 or scanning source/destination address
+TRN01120,domain,node-1120-sync.example,Possible C2/phishing infrastructure domain
+TRN01120,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01120,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01127,ipv4,198.51.100.28,Possible C2 or scanning source/destination address
+TRN01127,domain,node-1127-sync.example,Possible C2/phishing infrastructure domain
+TRN01127,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01132,ipv4,198.51.100.33,Possible C2 or scanning source/destination address
+TRN01132,domain,node-1132-sync.example,Possible C2/phishing infrastructure domain
+TRN01134,ipv4,198.51.100.35,Possible C2 or scanning source/destination address
+TRN01134,domain,node-1134-sync.example,Possible C2/phishing infrastructure domain
+TRN01138,ipv4,198.51.100.39,Possible C2 or scanning source/destination address
+TRN01138,domain,node-1138-sync.example,Possible C2/phishing infrastructure domain
+TRN01139,ipv4,198.51.100.40,Possible C2 or scanning source/destination address
+TRN01139,domain,node-1139-sync.example,Possible C2/phishing infrastructure domain
+TRN01140,ipv4,198.51.100.41,Possible C2 or scanning source/destination address
+TRN01140,domain,node-1140-sync.example,Possible C2/phishing infrastructure domain
+TRN01147,ipv4,198.51.100.48,Possible C2 or scanning source/destination address
+TRN01147,domain,node-1147-sync.example,Possible C2/phishing infrastructure domain
+TRN01148,ipv4,198.51.100.49,Possible C2 or scanning source/destination address
+TRN01148,domain,node-1148-sync.example,Possible C2/phishing infrastructure domain
+TRN01148,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01150,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN01150,domain,node-1150-sync.example,Possible C2/phishing infrastructure domain
+TRN01150,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01151,ipv4,198.51.100.52,Possible C2 or scanning source/destination address
+TRN01151,domain,node-1151-sync.example,Possible C2/phishing infrastructure domain
+TRN01153,ipv4,198.51.100.54,Possible C2 or scanning source/destination address
+TRN01153,domain,node-1153-sync.example,Possible C2/phishing infrastructure domain
+TRN01154,ipv4,198.51.100.55,Possible C2 or scanning source/destination address
+TRN01154,domain,node-1154-sync.example,Possible C2/phishing infrastructure domain
+TRN01156,ipv4,198.51.100.57,Possible C2 or scanning source/destination address
+TRN01156,domain,node-1156-sync.example,Possible C2/phishing infrastructure domain
+TRN01161,ipv4,198.51.100.62,Possible C2 or scanning source/destination address
+TRN01161,domain,node-1161-sync.example,Possible C2/phishing infrastructure domain
+TRN01161,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01162,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN01162,domain,node-1162-sync.example,Possible C2/phishing infrastructure domain
+TRN01162,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01167,ipv4,198.51.100.68,Possible C2 or scanning source/destination address
+TRN01167,domain,node-1167-sync.example,Possible C2/phishing infrastructure domain
+TRN01167,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01168,ipv4,198.51.100.69,Possible C2 or scanning source/destination address
+TRN01168,domain,node-1168-sync.example,Possible C2/phishing infrastructure domain
+TRN01168,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01169,ipv4,198.51.100.70,Possible C2 or scanning source/destination address
+TRN01169,domain,node-1169-sync.example,Possible C2/phishing infrastructure domain
+TRN01170,ipv4,198.51.100.71,Possible C2 or scanning source/destination address
+TRN01170,domain,node-1170-sync.example,Possible C2/phishing infrastructure domain
+TRN01172,ipv4,198.51.100.73,Possible C2 or scanning source/destination address
+TRN01172,domain,node-1172-sync.example,Possible C2/phishing infrastructure domain
+TRN01173,ipv4,198.51.100.74,Possible C2 or scanning source/destination address
+TRN01173,domain,node-1173-sync.example,Possible C2/phishing infrastructure domain
+TRN01174,ipv4,198.51.100.75,Possible C2 or scanning source/destination address
+TRN01174,domain,node-1174-sync.example,Possible C2/phishing infrastructure domain
+TRN01175,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN01175,domain,node-1175-sync.example,Possible C2/phishing infrastructure domain
+TRN01175,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01177,ipv4,198.51.100.78,Possible C2 or scanning source/destination address
+TRN01177,domain,node-1177-sync.example,Possible C2/phishing infrastructure domain
+TRN01177,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01177,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01183,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN01183,domain,node-1183-sync.example,Possible C2/phishing infrastructure domain
+TRN01183,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01183,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01185,ipv4,198.51.100.86,Possible C2 or scanning source/destination address
+TRN01185,domain,node-1185-sync.example,Possible C2/phishing infrastructure domain
+TRN01185,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01186,ipv4,198.51.100.87,Possible C2 or scanning source/destination address
+TRN01186,domain,node-1186-sync.example,Possible C2/phishing infrastructure domain
+TRN01187,ipv4,198.51.100.88,Possible C2 or scanning source/destination address
+TRN01187,domain,node-1187-sync.example,Possible C2/phishing infrastructure domain
+TRN01187,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01193,ipv4,198.51.100.94,Possible C2 or scanning source/destination address
+TRN01193,domain,node-1193-sync.example,Possible C2/phishing infrastructure domain
+TRN01193,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01195,ipv4,198.51.100.96,Possible C2 or scanning source/destination address
+TRN01195,domain,node-1195-sync.example,Possible C2/phishing infrastructure domain
+TRN01197,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN01197,domain,node-1197-sync.example,Possible C2/phishing infrastructure domain
+TRN01200,ipv4,198.51.100.101,Possible C2 or scanning source/destination address
+TRN01200,domain,node-1200-sync.example,Possible C2/phishing infrastructure domain
+TRN01204,ipv4,198.51.100.105,Possible C2 or scanning source/destination address
+TRN01204,domain,node-1204-sync.example,Possible C2/phishing infrastructure domain
+TRN01204,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01205,ipv4,198.51.100.106,Possible C2 or scanning source/destination address
+TRN01205,domain,node-1205-sync.example,Possible C2/phishing infrastructure domain
+TRN01205,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01211,ipv4,198.51.100.112,Possible C2 or scanning source/destination address
+TRN01211,domain,node-1211-sync.example,Possible C2/phishing infrastructure domain
+TRN01212,ipv4,198.51.100.113,Possible C2 or scanning source/destination address
+TRN01212,domain,node-1212-sync.example,Possible C2/phishing infrastructure domain
+TRN01215,ipv4,198.51.100.116,Possible C2 or scanning source/destination address
+TRN01215,domain,node-1215-sync.example,Possible C2/phishing infrastructure domain
+TRN01215,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01219,ipv4,198.51.100.120,Possible C2 or scanning source/destination address
+TRN01219,domain,node-1219-sync.example,Possible C2/phishing infrastructure domain
+TRN01220,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN01220,domain,node-1220-sync.example,Possible C2/phishing infrastructure domain
+TRN01222,ipv4,198.51.100.123,Possible C2 or scanning source/destination address
+TRN01222,domain,node-1222-sync.example,Possible C2/phishing infrastructure domain
+TRN01229,ipv4,198.51.100.130,Possible C2 or scanning source/destination address
+TRN01229,domain,node-1229-sync.example,Possible C2/phishing infrastructure domain
+TRN01229,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01230,ipv4,198.51.100.131,Possible C2 or scanning source/destination address
+TRN01230,domain,node-1230-sync.example,Possible C2/phishing infrastructure domain
+TRN01231,ipv4,198.51.100.132,Possible C2 or scanning source/destination address
+TRN01231,domain,node-1231-sync.example,Possible C2/phishing infrastructure domain
+TRN01231,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01232,ipv4,198.51.100.133,Possible C2 or scanning source/destination address
+TRN01232,domain,node-1232-sync.example,Possible C2/phishing infrastructure domain
+TRN01234,ipv4,198.51.100.135,Possible C2 or scanning source/destination address
+TRN01234,domain,node-1234-sync.example,Possible C2/phishing infrastructure domain
+TRN01242,ipv4,198.51.100.143,Possible C2 or scanning source/destination address
+TRN01242,domain,node-1242-sync.example,Possible C2/phishing infrastructure domain
+TRN01244,ipv4,198.51.100.145,Possible C2 or scanning source/destination address
+TRN01244,domain,node-1244-sync.example,Possible C2/phishing infrastructure domain
+TRN01244,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01245,ipv4,198.51.100.146,Possible C2 or scanning source/destination address
+TRN01245,domain,node-1245-sync.example,Possible C2/phishing infrastructure domain
+TRN01246,ipv4,198.51.100.147,Possible C2 or scanning source/destination address
+TRN01246,domain,node-1246-sync.example,Possible C2/phishing infrastructure domain
+TRN01246,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01248,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN01248,domain,node-1248-sync.example,Possible C2/phishing infrastructure domain
+TRN01251,ipv4,198.51.100.152,Possible C2 or scanning source/destination address
+TRN01251,domain,node-1251-sync.example,Possible C2/phishing infrastructure domain
+TRN01252,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN01252,domain,node-1252-sync.example,Possible C2/phishing infrastructure domain
+TRN01256,ipv4,198.51.100.157,Possible C2 or scanning source/destination address
+TRN01256,domain,node-1256-sync.example,Possible C2/phishing infrastructure domain
+TRN01256,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01260,ipv4,198.51.100.161,Possible C2 or scanning source/destination address
+TRN01260,domain,node-1260-sync.example,Possible C2/phishing infrastructure domain
+TRN01261,ipv4,198.51.100.162,Possible C2 or scanning source/destination address
+TRN01261,domain,node-1261-sync.example,Possible C2/phishing infrastructure domain
+TRN01270,ipv4,198.51.100.171,Possible C2 or scanning source/destination address
+TRN01270,domain,node-1270-sync.example,Possible C2/phishing infrastructure domain
+TRN01273,ipv4,198.51.100.174,Possible C2 or scanning source/destination address
+TRN01273,domain,node-1273-sync.example,Possible C2/phishing infrastructure domain
+TRN01275,ipv4,198.51.100.176,Possible C2 or scanning source/destination address
+TRN01275,domain,node-1275-sync.example,Possible C2/phishing infrastructure domain
+TRN01278,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN01278,domain,node-1278-sync.example,Possible C2/phishing infrastructure domain
+TRN01284,ipv4,198.51.100.185,Possible C2 or scanning source/destination address
+TRN01284,domain,node-1284-sync.example,Possible C2/phishing infrastructure domain
+TRN01285,ipv4,198.51.100.186,Possible C2 or scanning source/destination address
+TRN01285,domain,node-1285-sync.example,Possible C2/phishing infrastructure domain
+TRN01285,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01290,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN01290,domain,node-1290-sync.example,Possible C2/phishing infrastructure domain
+TRN01290,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01291,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN01291,domain,node-1291-sync.example,Possible C2/phishing infrastructure domain
+TRN01297,ipv4,198.51.100.198,Possible C2 or scanning source/destination address
+TRN01297,domain,node-1297-sync.example,Possible C2/phishing infrastructure domain
+TRN01303,ipv4,198.51.100.204,Possible C2 or scanning source/destination address
+TRN01303,domain,node-1303-sync.example,Possible C2/phishing infrastructure domain
+TRN01303,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01306,ipv4,198.51.100.207,Possible C2 or scanning source/destination address
+TRN01306,domain,node-1306-sync.example,Possible C2/phishing infrastructure domain
+TRN01310,ipv4,198.51.100.211,Possible C2 or scanning source/destination address
+TRN01310,domain,node-1310-sync.example,Possible C2/phishing infrastructure domain
+TRN01314,ipv4,198.51.100.215,Possible C2 or scanning source/destination address
+TRN01314,domain,node-1314-sync.example,Possible C2/phishing infrastructure domain
+TRN01315,ipv4,198.51.100.216,Possible C2 or scanning source/destination address
+TRN01315,domain,node-1315-sync.example,Possible C2/phishing infrastructure domain
+TRN01321,ipv4,198.51.100.2,Possible C2 or scanning source/destination address
+TRN01321,domain,node-1321-sync.example,Possible C2/phishing infrastructure domain
+TRN01323,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN01323,domain,node-1323-sync.example,Possible C2/phishing infrastructure domain
+TRN01323,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01325,ipv4,198.51.100.6,Possible C2 or scanning source/destination address
+TRN01325,domain,node-1325-sync.example,Possible C2/phishing infrastructure domain
+TRN01326,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN01326,domain,node-1326-sync.example,Possible C2/phishing infrastructure domain
+TRN01328,ipv4,198.51.100.9,Possible C2 or scanning source/destination address
+TRN01328,domain,node-1328-sync.example,Possible C2/phishing infrastructure domain
+TRN01331,ipv4,198.51.100.12,Possible C2 or scanning source/destination address
+TRN01331,domain,node-1331-sync.example,Possible C2/phishing infrastructure domain
+TRN01331,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01332,ipv4,198.51.100.13,Possible C2 or scanning source/destination address
+TRN01332,domain,node-1332-sync.example,Possible C2/phishing infrastructure domain
+TRN01332,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01333,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN01333,domain,node-1333-sync.example,Possible C2/phishing infrastructure domain
+TRN01334,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN01334,domain,node-1334-sync.example,Possible C2/phishing infrastructure domain
+TRN01335,ipv4,198.51.100.16,Possible C2 or scanning source/destination address
+TRN01335,domain,node-1335-sync.example,Possible C2/phishing infrastructure domain
+TRN01336,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN01336,domain,node-1336-sync.example,Possible C2/phishing infrastructure domain
+TRN01340,ipv4,198.51.100.21,Possible C2 or scanning source/destination address
+TRN01340,domain,node-1340-sync.example,Possible C2/phishing infrastructure domain
+TRN01340,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01346,ipv4,198.51.100.27,Possible C2 or scanning source/destination address
+TRN01346,domain,node-1346-sync.example,Possible C2/phishing infrastructure domain
+TRN01347,ipv4,198.51.100.28,Possible C2 or scanning source/destination address
+TRN01347,domain,node-1347-sync.example,Possible C2/phishing infrastructure domain
+TRN01348,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN01348,domain,node-1348-sync.example,Possible C2/phishing infrastructure domain
+TRN01349,ipv4,198.51.100.30,Possible C2 or scanning source/destination address
+TRN01349,domain,node-1349-sync.example,Possible C2/phishing infrastructure domain
+TRN01349,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01350,ipv4,198.51.100.31,Possible C2 or scanning source/destination address
+TRN01350,domain,node-1350-sync.example,Possible C2/phishing infrastructure domain
+TRN01353,ipv4,198.51.100.34,Possible C2 or scanning source/destination address
+TRN01353,domain,node-1353-sync.example,Possible C2/phishing infrastructure domain
+TRN01357,ipv4,198.51.100.38,Possible C2 or scanning source/destination address
+TRN01357,domain,node-1357-sync.example,Possible C2/phishing infrastructure domain
+TRN01359,ipv4,198.51.100.40,Possible C2 or scanning source/destination address
+TRN01359,domain,node-1359-sync.example,Possible C2/phishing infrastructure domain
+TRN01361,ipv4,198.51.100.42,Possible C2 or scanning source/destination address
+TRN01361,domain,node-1361-sync.example,Possible C2/phishing infrastructure domain
+TRN01363,ipv4,198.51.100.44,Possible C2 or scanning source/destination address
+TRN01363,domain,node-1363-sync.example,Possible C2/phishing infrastructure domain
+TRN01363,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01371,ipv4,198.51.100.52,Possible C2 or scanning source/destination address
+TRN01371,domain,node-1371-sync.example,Possible C2/phishing infrastructure domain
+TRN01373,ipv4,198.51.100.54,Possible C2 or scanning source/destination address
+TRN01373,domain,node-1373-sync.example,Possible C2/phishing infrastructure domain
+TRN01373,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01378,ipv4,198.51.100.59,Possible C2 or scanning source/destination address
+TRN01378,domain,node-1378-sync.example,Possible C2/phishing infrastructure domain
+TRN01382,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN01382,domain,node-1382-sync.example,Possible C2/phishing infrastructure domain
+TRN01383,ipv4,198.51.100.64,Possible C2 or scanning source/destination address
+TRN01383,domain,node-1383-sync.example,Possible C2/phishing infrastructure domain
+TRN01386,ipv4,198.51.100.67,Possible C2 or scanning source/destination address
+TRN01386,domain,node-1386-sync.example,Possible C2/phishing infrastructure domain
+TRN01386,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01386,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01395,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN01395,domain,node-1395-sync.example,Possible C2/phishing infrastructure domain
+TRN01402,ipv4,198.51.100.83,Possible C2 or scanning source/destination address
+TRN01402,domain,node-1402-sync.example,Possible C2/phishing infrastructure domain
+TRN01403,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN01403,domain,node-1403-sync.example,Possible C2/phishing infrastructure domain
+TRN01408,ipv4,198.51.100.89,Possible C2 or scanning source/destination address
+TRN01408,domain,node-1408-sync.example,Possible C2/phishing infrastructure domain
+TRN01409,ipv4,198.51.100.90,Possible C2 or scanning source/destination address
+TRN01409,domain,node-1409-sync.example,Possible C2/phishing infrastructure domain
+TRN01409,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01410,ipv4,198.51.100.91,Possible C2 or scanning source/destination address
+TRN01410,domain,node-1410-sync.example,Possible C2/phishing infrastructure domain
+TRN01411,ipv4,198.51.100.92,Possible C2 or scanning source/destination address
+TRN01411,domain,node-1411-sync.example,Possible C2/phishing infrastructure domain
+TRN01411,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01412,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN01412,domain,node-1412-sync.example,Possible C2/phishing infrastructure domain
+TRN01415,ipv4,198.51.100.96,Possible C2 or scanning source/destination address
+TRN01415,domain,node-1415-sync.example,Possible C2/phishing infrastructure domain
+TRN01417,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN01417,domain,node-1417-sync.example,Possible C2/phishing infrastructure domain
+TRN01420,ipv4,198.51.100.101,Possible C2 or scanning source/destination address
+TRN01420,domain,node-1420-sync.example,Possible C2/phishing infrastructure domain
+TRN01425,ipv4,198.51.100.106,Possible C2 or scanning source/destination address
+TRN01425,domain,node-1425-sync.example,Possible C2/phishing infrastructure domain
+TRN01427,ipv4,198.51.100.108,Possible C2 or scanning source/destination address
+TRN01427,domain,node-1427-sync.example,Possible C2/phishing infrastructure domain
+TRN01429,ipv4,198.51.100.110,Possible C2 or scanning source/destination address
+TRN01429,domain,node-1429-sync.example,Possible C2/phishing infrastructure domain
+TRN01430,ipv4,198.51.100.111,Possible C2 or scanning source/destination address
+TRN01430,domain,node-1430-sync.example,Possible C2/phishing infrastructure domain
+TRN01430,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01431,ipv4,198.51.100.112,Possible C2 or scanning source/destination address
+TRN01431,domain,node-1431-sync.example,Possible C2/phishing infrastructure domain
+TRN01431,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01431,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01434,ipv4,198.51.100.115,Possible C2 or scanning source/destination address
+TRN01434,domain,node-1434-sync.example,Possible C2/phishing infrastructure domain
+TRN01434,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01435,ipv4,198.51.100.116,Possible C2 or scanning source/destination address
+TRN01435,domain,node-1435-sync.example,Possible C2/phishing infrastructure domain
+TRN01437,ipv4,198.51.100.118,Possible C2 or scanning source/destination address
+TRN01437,domain,node-1437-sync.example,Possible C2/phishing infrastructure domain
+TRN01440,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN01440,domain,node-1440-sync.example,Possible C2/phishing infrastructure domain
+TRN01447,ipv4,198.51.100.128,Possible C2 or scanning source/destination address
+TRN01447,domain,node-1447-sync.example,Possible C2/phishing infrastructure domain
+TRN01450,ipv4,198.51.100.131,Possible C2 or scanning source/destination address
+TRN01450,domain,node-1450-sync.example,Possible C2/phishing infrastructure domain
+TRN01451,ipv4,198.51.100.132,Possible C2 or scanning source/destination address
+TRN01451,domain,node-1451-sync.example,Possible C2/phishing infrastructure domain
+TRN01451,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01452,ipv4,198.51.100.133,Possible C2 or scanning source/destination address
+TRN01452,domain,node-1452-sync.example,Possible C2/phishing infrastructure domain
+TRN01455,ipv4,198.51.100.136,Possible C2 or scanning source/destination address
+TRN01455,domain,node-1455-sync.example,Possible C2/phishing infrastructure domain
+TRN01455,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01455,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01456,ipv4,198.51.100.137,Possible C2 or scanning source/destination address
+TRN01456,domain,node-1456-sync.example,Possible C2/phishing infrastructure domain
+TRN01459,ipv4,198.51.100.140,Possible C2 or scanning source/destination address
+TRN01459,domain,node-1459-sync.example,Possible C2/phishing infrastructure domain
+TRN01459,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01461,ipv4,198.51.100.142,Possible C2 or scanning source/destination address
+TRN01461,domain,node-1461-sync.example,Possible C2/phishing infrastructure domain
+TRN01463,ipv4,198.51.100.144,Possible C2 or scanning source/destination address
+TRN01463,domain,node-1463-sync.example,Possible C2/phishing infrastructure domain
+TRN01463,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01467,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN01467,domain,node-1467-sync.example,Possible C2/phishing infrastructure domain
+TRN01468,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN01468,domain,node-1468-sync.example,Possible C2/phishing infrastructure domain
+TRN01468,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01470,ipv4,198.51.100.151,Possible C2 or scanning source/destination address
+TRN01470,domain,node-1470-sync.example,Possible C2/phishing infrastructure domain
+TRN01472,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN01472,domain,node-1472-sync.example,Possible C2/phishing infrastructure domain
+TRN01473,ipv4,198.51.100.154,Possible C2 or scanning source/destination address
+TRN01473,domain,node-1473-sync.example,Possible C2/phishing infrastructure domain
+TRN01474,ipv4,198.51.100.155,Possible C2 or scanning source/destination address
+TRN01474,domain,node-1474-sync.example,Possible C2/phishing infrastructure domain
+TRN01474,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01476,ipv4,198.51.100.157,Possible C2 or scanning source/destination address
+TRN01476,domain,node-1476-sync.example,Possible C2/phishing infrastructure domain
+TRN01476,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01477,ipv4,198.51.100.158,Possible C2 or scanning source/destination address
+TRN01477,domain,node-1477-sync.example,Possible C2/phishing infrastructure domain
+TRN01477,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01477,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01482,ipv4,198.51.100.163,Possible C2 or scanning source/destination address
+TRN01482,domain,node-1482-sync.example,Possible C2/phishing infrastructure domain
+TRN01482,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01484,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN01484,domain,node-1484-sync.example,Possible C2/phishing infrastructure domain
+TRN01488,ipv4,198.51.100.169,Possible C2 or scanning source/destination address
+TRN01488,domain,node-1488-sync.example,Possible C2/phishing infrastructure domain
+TRN01489,ipv4,198.51.100.170,Possible C2 or scanning source/destination address
+TRN01489,domain,node-1489-sync.example,Possible C2/phishing infrastructure domain
+TRN01494,ipv4,198.51.100.175,Possible C2 or scanning source/destination address
+TRN01494,domain,node-1494-sync.example,Possible C2/phishing infrastructure domain
+TRN01494,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01497,ipv4,198.51.100.178,Possible C2 or scanning source/destination address
+TRN01497,domain,node-1497-sync.example,Possible C2/phishing infrastructure domain
+TRN01497,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01500,ipv4,198.51.100.181,Possible C2 or scanning source/destination address
+TRN01500,domain,node-1500-sync.example,Possible C2/phishing infrastructure domain
+TRN01507,ipv4,198.51.100.188,Possible C2 or scanning source/destination address
+TRN01507,domain,node-1507-sync.example,Possible C2/phishing infrastructure domain
+TRN01507,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01507,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01509,ipv4,198.51.100.190,Possible C2 or scanning source/destination address
+TRN01509,domain,node-1509-sync.example,Possible C2/phishing infrastructure domain
+TRN01510,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN01510,domain,node-1510-sync.example,Possible C2/phishing infrastructure domain
+TRN01513,ipv4,198.51.100.194,Possible C2 or scanning source/destination address
+TRN01513,domain,node-1513-sync.example,Possible C2/phishing infrastructure domain
+TRN01516,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN01516,domain,node-1516-sync.example,Possible C2/phishing infrastructure domain
+TRN01516,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01517,ipv4,198.51.100.198,Possible C2 or scanning source/destination address
+TRN01517,domain,node-1517-sync.example,Possible C2/phishing infrastructure domain
+TRN01519,ipv4,198.51.100.200,Possible C2 or scanning source/destination address
+TRN01519,domain,node-1519-sync.example,Possible C2/phishing infrastructure domain
+TRN01519,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01522,ipv4,198.51.100.203,Possible C2 or scanning source/destination address
+TRN01522,domain,node-1522-sync.example,Possible C2/phishing infrastructure domain
+TRN01525,ipv4,198.51.100.206,Possible C2 or scanning source/destination address
+TRN01525,domain,node-1525-sync.example,Possible C2/phishing infrastructure domain
+TRN01525,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01531,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN01531,domain,node-1531-sync.example,Possible C2/phishing infrastructure domain
+TRN01533,ipv4,198.51.100.214,Possible C2 or scanning source/destination address
+TRN01533,domain,node-1533-sync.example,Possible C2/phishing infrastructure domain
+TRN01538,ipv4,198.51.100.219,Possible C2 or scanning source/destination address
+TRN01538,domain,node-1538-sync.example,Possible C2/phishing infrastructure domain
+TRN01541,ipv4,198.51.100.2,Possible C2 or scanning source/destination address
+TRN01541,domain,node-1541-sync.example,Possible C2/phishing infrastructure domain
+TRN01543,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN01543,domain,node-1543-sync.example,Possible C2/phishing infrastructure domain
+TRN01557,ipv4,198.51.100.18,Possible C2 or scanning source/destination address
+TRN01557,domain,node-1557-sync.example,Possible C2/phishing infrastructure domain
+TRN01557,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01558,ipv4,198.51.100.19,Possible C2 or scanning source/destination address
+TRN01558,domain,node-1558-sync.example,Possible C2/phishing infrastructure domain
+TRN01562,ipv4,198.51.100.23,Possible C2 or scanning source/destination address
+TRN01562,domain,node-1562-sync.example,Possible C2/phishing infrastructure domain
+TRN01565,ipv4,198.51.100.26,Possible C2 or scanning source/destination address
+TRN01565,domain,node-1565-sync.example,Possible C2/phishing infrastructure domain
+TRN01566,ipv4,198.51.100.27,Possible C2 or scanning source/destination address
+TRN01566,domain,node-1566-sync.example,Possible C2/phishing infrastructure domain
+TRN01566,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01568,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN01568,domain,node-1568-sync.example,Possible C2/phishing infrastructure domain
+TRN01571,ipv4,198.51.100.32,Possible C2 or scanning source/destination address
+TRN01571,domain,node-1571-sync.example,Possible C2/phishing infrastructure domain
+TRN01572,ipv4,198.51.100.33,Possible C2 or scanning source/destination address
+TRN01572,domain,node-1572-sync.example,Possible C2/phishing infrastructure domain
+TRN01575,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN01575,domain,node-1575-sync.example,Possible C2/phishing infrastructure domain
+TRN01580,ipv4,198.51.100.41,Possible C2 or scanning source/destination address
+TRN01580,domain,node-1580-sync.example,Possible C2/phishing infrastructure domain
+TRN01581,ipv4,198.51.100.42,Possible C2 or scanning source/destination address
+TRN01581,domain,node-1581-sync.example,Possible C2/phishing infrastructure domain
+TRN01583,ipv4,198.51.100.44,Possible C2 or scanning source/destination address
+TRN01583,domain,node-1583-sync.example,Possible C2/phishing infrastructure domain
+TRN01583,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01584,ipv4,198.51.100.45,Possible C2 or scanning source/destination address
+TRN01584,domain,node-1584-sync.example,Possible C2/phishing infrastructure domain
+TRN01588,ipv4,198.51.100.49,Possible C2 or scanning source/destination address
+TRN01588,domain,node-1588-sync.example,Possible C2/phishing infrastructure domain
+TRN01589,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN01589,domain,node-1589-sync.example,Possible C2/phishing infrastructure domain
+TRN01589,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01590,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN01590,domain,node-1590-sync.example,Possible C2/phishing infrastructure domain
+TRN01592,ipv4,198.51.100.53,Possible C2 or scanning source/destination address
+TRN01592,domain,node-1592-sync.example,Possible C2/phishing infrastructure domain
+TRN01599,ipv4,198.51.100.60,Possible C2 or scanning source/destination address
+TRN01599,domain,node-1599-sync.example,Possible C2/phishing infrastructure domain
+TRN01600,ipv4,198.51.100.61,Possible C2 or scanning source/destination address
+TRN01600,domain,node-1600-sync.example,Possible C2/phishing infrastructure domain
+TRN01600,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01601,ipv4,198.51.100.62,Possible C2 or scanning source/destination address
+TRN01601,domain,node-1601-sync.example,Possible C2/phishing infrastructure domain
+TRN01602,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN01602,domain,node-1602-sync.example,Possible C2/phishing infrastructure domain
+TRN01602,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01603,ipv4,198.51.100.64,Possible C2 or scanning source/destination address
+TRN01603,domain,node-1603-sync.example,Possible C2/phishing infrastructure domain
+TRN01606,ipv4,198.51.100.67,Possible C2 or scanning source/destination address
+TRN01606,domain,node-1606-sync.example,Possible C2/phishing infrastructure domain
+TRN01609,ipv4,198.51.100.70,Possible C2 or scanning source/destination address
+TRN01609,domain,node-1609-sync.example,Possible C2/phishing infrastructure domain
+TRN01610,ipv4,198.51.100.71,Possible C2 or scanning source/destination address
+TRN01610,domain,node-1610-sync.example,Possible C2/phishing infrastructure domain
+TRN01611,ipv4,198.51.100.72,Possible C2 or scanning source/destination address
+TRN01611,domain,node-1611-sync.example,Possible C2/phishing infrastructure domain
+TRN01615,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN01615,domain,node-1615-sync.example,Possible C2/phishing infrastructure domain
+TRN01615,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01616,ipv4,198.51.100.77,Possible C2 or scanning source/destination address
+TRN01616,domain,node-1616-sync.example,Possible C2/phishing infrastructure domain
+TRN01618,ipv4,198.51.100.79,Possible C2 or scanning source/destination address
+TRN01618,domain,node-1618-sync.example,Possible C2/phishing infrastructure domain
+TRN01618,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01619,ipv4,198.51.100.80,Possible C2 or scanning source/destination address
+TRN01619,domain,node-1619-sync.example,Possible C2/phishing infrastructure domain
+TRN01622,ipv4,198.51.100.83,Possible C2 or scanning source/destination address
+TRN01622,domain,node-1622-sync.example,Possible C2/phishing infrastructure domain
+TRN01623,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN01623,domain,node-1623-sync.example,Possible C2/phishing infrastructure domain
+TRN01632,ipv4,198.51.100.93,Possible C2 or scanning source/destination address
+TRN01632,domain,node-1632-sync.example,Possible C2/phishing infrastructure domain
+TRN01635,ipv4,198.51.100.96,Possible C2 or scanning source/destination address
+TRN01635,domain,node-1635-sync.example,Possible C2/phishing infrastructure domain
+TRN01636,ipv4,198.51.100.97,Possible C2 or scanning source/destination address
+TRN01636,domain,node-1636-sync.example,Possible C2/phishing infrastructure domain
+TRN01637,ipv4,198.51.100.98,Possible C2 or scanning source/destination address
+TRN01637,domain,node-1637-sync.example,Possible C2/phishing infrastructure domain
+TRN01639,ipv4,198.51.100.100,Possible C2 or scanning source/destination address
+TRN01639,domain,node-1639-sync.example,Possible C2/phishing infrastructure domain
+TRN01641,ipv4,198.51.100.102,Possible C2 or scanning source/destination address
+TRN01641,domain,node-1641-sync.example,Possible C2/phishing infrastructure domain
+TRN01646,ipv4,198.51.100.107,Possible C2 or scanning source/destination address
+TRN01646,domain,node-1646-sync.example,Possible C2/phishing infrastructure domain
+TRN01647,ipv4,198.51.100.108,Possible C2 or scanning source/destination address
+TRN01647,domain,node-1647-sync.example,Possible C2/phishing infrastructure domain
+TRN01650,ipv4,198.51.100.111,Possible C2 or scanning source/destination address
+TRN01650,domain,node-1650-sync.example,Possible C2/phishing infrastructure domain
+TRN01653,ipv4,198.51.100.114,Possible C2 or scanning source/destination address
+TRN01653,domain,node-1653-sync.example,Possible C2/phishing infrastructure domain
+TRN01654,ipv4,198.51.100.115,Possible C2 or scanning source/destination address
+TRN01654,domain,node-1654-sync.example,Possible C2/phishing infrastructure domain
+TRN01655,ipv4,198.51.100.116,Possible C2 or scanning source/destination address
+TRN01655,domain,node-1655-sync.example,Possible C2/phishing infrastructure domain
+TRN01656,ipv4,198.51.100.117,Possible C2 or scanning source/destination address
+TRN01656,domain,node-1656-sync.example,Possible C2/phishing infrastructure domain
+TRN01657,ipv4,198.51.100.118,Possible C2 or scanning source/destination address
+TRN01657,domain,node-1657-sync.example,Possible C2/phishing infrastructure domain
+TRN01660,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN01660,domain,node-1660-sync.example,Possible C2/phishing infrastructure domain
+TRN01661,ipv4,198.51.100.122,Possible C2 or scanning source/destination address
+TRN01661,domain,node-1661-sync.example,Possible C2/phishing infrastructure domain
+TRN01666,ipv4,198.51.100.127,Possible C2 or scanning source/destination address
+TRN01666,domain,node-1666-sync.example,Possible C2/phishing infrastructure domain
+TRN01666,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01669,ipv4,198.51.100.130,Possible C2 or scanning source/destination address
+TRN01669,domain,node-1669-sync.example,Possible C2/phishing infrastructure domain
+TRN01669,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01670,ipv4,198.51.100.131,Possible C2 or scanning source/destination address
+TRN01670,domain,node-1670-sync.example,Possible C2/phishing infrastructure domain
+TRN01671,ipv4,198.51.100.132,Possible C2 or scanning source/destination address
+TRN01671,domain,node-1671-sync.example,Possible C2/phishing infrastructure domain
+TRN01674,ipv4,198.51.100.135,Possible C2 or scanning source/destination address
+TRN01674,domain,node-1674-sync.example,Possible C2/phishing infrastructure domain
+TRN01674,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01681,ipv4,198.51.100.142,Possible C2 or scanning source/destination address
+TRN01681,domain,node-1681-sync.example,Possible C2/phishing infrastructure domain
+TRN01684,ipv4,198.51.100.145,Possible C2 or scanning source/destination address
+TRN01684,domain,node-1684-sync.example,Possible C2/phishing infrastructure domain
+TRN01687,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN01687,domain,node-1687-sync.example,Possible C2/phishing infrastructure domain
+TRN01687,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01688,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN01688,domain,node-1688-sync.example,Possible C2/phishing infrastructure domain
+TRN01689,ipv4,198.51.100.150,Possible C2 or scanning source/destination address
+TRN01689,domain,node-1689-sync.example,Possible C2/phishing infrastructure domain
+TRN01690,ipv4,198.51.100.151,Possible C2 or scanning source/destination address
+TRN01690,domain,node-1690-sync.example,Possible C2/phishing infrastructure domain
+TRN01690,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01692,ipv4,198.51.100.153,Possible C2 or scanning source/destination address
+TRN01692,domain,node-1692-sync.example,Possible C2/phishing infrastructure domain
+TRN01694,ipv4,198.51.100.155,Possible C2 or scanning source/destination address
+TRN01694,domain,node-1694-sync.example,Possible C2/phishing infrastructure domain
+TRN01697,ipv4,198.51.100.158,Possible C2 or scanning source/destination address
+TRN01697,domain,node-1697-sync.example,Possible C2/phishing infrastructure domain
+TRN01697,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01698,ipv4,198.51.100.159,Possible C2 or scanning source/destination address
+TRN01698,domain,node-1698-sync.example,Possible C2/phishing infrastructure domain
+TRN01704,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN01704,domain,node-1704-sync.example,Possible C2/phishing infrastructure domain
+TRN01704,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01705,ipv4,198.51.100.166,Possible C2 or scanning source/destination address
+TRN01705,domain,node-1705-sync.example,Possible C2/phishing infrastructure domain
+TRN01707,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN01707,domain,node-1707-sync.example,Possible C2/phishing infrastructure domain
+TRN01710,ipv4,198.51.100.171,Possible C2 or scanning source/destination address
+TRN01710,domain,node-1710-sync.example,Possible C2/phishing infrastructure domain
+TRN01710,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01711,ipv4,198.51.100.172,Possible C2 or scanning source/destination address
+TRN01711,domain,node-1711-sync.example,Possible C2/phishing infrastructure domain
+TRN01711,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01712,ipv4,198.51.100.173,Possible C2 or scanning source/destination address
+TRN01712,domain,node-1712-sync.example,Possible C2/phishing infrastructure domain
+TRN01712,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01718,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN01718,domain,node-1718-sync.example,Possible C2/phishing infrastructure domain
+TRN01725,ipv4,198.51.100.186,Possible C2 or scanning source/destination address
+TRN01725,domain,node-1725-sync.example,Possible C2/phishing infrastructure domain
+TRN01725,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01731,ipv4,198.51.100.192,Possible C2 or scanning source/destination address
+TRN01731,domain,node-1731-sync.example,Possible C2/phishing infrastructure domain
+TRN01732,ipv4,198.51.100.193,Possible C2 or scanning source/destination address
+TRN01732,domain,node-1732-sync.example,Possible C2/phishing infrastructure domain
+TRN01732,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01734,ipv4,198.51.100.195,Possible C2 or scanning source/destination address
+TRN01734,domain,node-1734-sync.example,Possible C2/phishing infrastructure domain
+TRN01735,ipv4,198.51.100.196,Possible C2 or scanning source/destination address
+TRN01735,domain,node-1735-sync.example,Possible C2/phishing infrastructure domain
+TRN01740,ipv4,198.51.100.201,Possible C2 or scanning source/destination address
+TRN01740,domain,node-1740-sync.example,Possible C2/phishing infrastructure domain
+TRN01741,ipv4,198.51.100.202,Possible C2 or scanning source/destination address
+TRN01741,domain,node-1741-sync.example,Possible C2/phishing infrastructure domain
+TRN01741,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01742,ipv4,198.51.100.203,Possible C2 or scanning source/destination address
+TRN01742,domain,node-1742-sync.example,Possible C2/phishing infrastructure domain
+TRN01742,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01750,ipv4,198.51.100.211,Possible C2 or scanning source/destination address
+TRN01750,domain,node-1750-sync.example,Possible C2/phishing infrastructure domain
+TRN01750,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01751,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN01751,domain,node-1751-sync.example,Possible C2/phishing infrastructure domain
+TRN01753,ipv4,198.51.100.214,Possible C2 or scanning source/destination address
+TRN01753,domain,node-1753-sync.example,Possible C2/phishing infrastructure domain
+TRN01754,ipv4,198.51.100.215,Possible C2 or scanning source/destination address
+TRN01754,domain,node-1754-sync.example,Possible C2/phishing infrastructure domain
+TRN01754,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01757,ipv4,198.51.100.218,Possible C2 or scanning source/destination address
+TRN01757,domain,node-1757-sync.example,Possible C2/phishing infrastructure domain
+TRN01759,ipv4,198.51.100.220,Possible C2 or scanning source/destination address
+TRN01759,domain,node-1759-sync.example,Possible C2/phishing infrastructure domain
+TRN01760,ipv4,198.51.100.1,Possible C2 or scanning source/destination address
+TRN01760,domain,node-1760-sync.example,Possible C2/phishing infrastructure domain
+TRN01761,ipv4,198.51.100.2,Possible C2 or scanning source/destination address
+TRN01761,domain,node-1761-sync.example,Possible C2/phishing infrastructure domain
+TRN01761,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01762,ipv4,198.51.100.3,Possible C2 or scanning source/destination address
+TRN01762,domain,node-1762-sync.example,Possible C2/phishing infrastructure domain
+TRN01768,ipv4,198.51.100.9,Possible C2 or scanning source/destination address
+TRN01768,domain,node-1768-sync.example,Possible C2/phishing infrastructure domain
+TRN01768,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01769,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN01769,domain,node-1769-sync.example,Possible C2/phishing infrastructure domain
+TRN01769,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01771,ipv4,198.51.100.12,Possible C2 or scanning source/destination address
+TRN01771,domain,node-1771-sync.example,Possible C2/phishing infrastructure domain
+TRN01774,ipv4,198.51.100.15,Possible C2 or scanning source/destination address
+TRN01774,domain,node-1774-sync.example,Possible C2/phishing infrastructure domain
+TRN01774,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01779,ipv4,198.51.100.20,Possible C2 or scanning source/destination address
+TRN01779,domain,node-1779-sync.example,Possible C2/phishing infrastructure domain
+TRN01780,ipv4,198.51.100.21,Possible C2 or scanning source/destination address
+TRN01780,domain,node-1780-sync.example,Possible C2/phishing infrastructure domain
+TRN01780,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01780,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01781,ipv4,198.51.100.22,Possible C2 or scanning source/destination address
+TRN01781,domain,node-1781-sync.example,Possible C2/phishing infrastructure domain
+TRN01782,ipv4,198.51.100.23,Possible C2 or scanning source/destination address
+TRN01782,domain,node-1782-sync.example,Possible C2/phishing infrastructure domain
+TRN01782,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01783,ipv4,198.51.100.24,Possible C2 or scanning source/destination address
+TRN01783,domain,node-1783-sync.example,Possible C2/phishing infrastructure domain
+TRN01784,ipv4,198.51.100.25,Possible C2 or scanning source/destination address
+TRN01784,domain,node-1784-sync.example,Possible C2/phishing infrastructure domain
+TRN01784,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01786,ipv4,198.51.100.27,Possible C2 or scanning source/destination address
+TRN01786,domain,node-1786-sync.example,Possible C2/phishing infrastructure domain
+TRN01788,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN01788,domain,node-1788-sync.example,Possible C2/phishing infrastructure domain
+TRN01791,ipv4,198.51.100.32,Possible C2 or scanning source/destination address
+TRN01791,domain,node-1791-sync.example,Possible C2/phishing infrastructure domain
+TRN01795,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN01795,domain,node-1795-sync.example,Possible C2/phishing infrastructure domain
+TRN01795,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01798,ipv4,198.51.100.39,Possible C2 or scanning source/destination address
+TRN01798,domain,node-1798-sync.example,Possible C2/phishing infrastructure domain
+TRN01801,ipv4,198.51.100.42,Possible C2 or scanning source/destination address
+TRN01801,domain,node-1801-sync.example,Possible C2/phishing infrastructure domain
+TRN01803,ipv4,198.51.100.44,Possible C2 or scanning source/destination address
+TRN01803,domain,node-1803-sync.example,Possible C2/phishing infrastructure domain
+TRN01805,ipv4,198.51.100.46,Possible C2 or scanning source/destination address
+TRN01805,domain,node-1805-sync.example,Possible C2/phishing infrastructure domain
+TRN01807,ipv4,198.51.100.48,Possible C2 or scanning source/destination address
+TRN01807,domain,node-1807-sync.example,Possible C2/phishing infrastructure domain
+TRN01809,ipv4,198.51.100.50,Possible C2 or scanning source/destination address
+TRN01809,domain,node-1809-sync.example,Possible C2/phishing infrastructure domain
+TRN01810,ipv4,198.51.100.51,Possible C2 or scanning source/destination address
+TRN01810,domain,node-1810-sync.example,Possible C2/phishing infrastructure domain
+TRN01811,ipv4,198.51.100.52,Possible C2 or scanning source/destination address
+TRN01811,domain,node-1811-sync.example,Possible C2/phishing infrastructure domain
+TRN01812,ipv4,198.51.100.53,Possible C2 or scanning source/destination address
+TRN01812,domain,node-1812-sync.example,Possible C2/phishing infrastructure domain
+TRN01818,ipv4,198.51.100.59,Possible C2 or scanning source/destination address
+TRN01818,domain,node-1818-sync.example,Possible C2/phishing infrastructure domain
+TRN01819,ipv4,198.51.100.60,Possible C2 or scanning source/destination address
+TRN01819,domain,node-1819-sync.example,Possible C2/phishing infrastructure domain
+TRN01830,ipv4,198.51.100.71,Possible C2 or scanning source/destination address
+TRN01830,domain,node-1830-sync.example,Possible C2/phishing infrastructure domain
+TRN01835,ipv4,198.51.100.76,Possible C2 or scanning source/destination address
+TRN01835,domain,node-1835-sync.example,Possible C2/phishing infrastructure domain
+TRN01838,ipv4,198.51.100.79,Possible C2 or scanning source/destination address
+TRN01838,domain,node-1838-sync.example,Possible C2/phishing infrastructure domain
+TRN01843,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN01843,domain,node-1843-sync.example,Possible C2/phishing infrastructure domain
+TRN01843,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01845,ipv4,198.51.100.86,Possible C2 or scanning source/destination address
+TRN01845,domain,node-1845-sync.example,Possible C2/phishing infrastructure domain
+TRN01845,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01846,ipv4,198.51.100.87,Possible C2 or scanning source/destination address
+TRN01846,domain,node-1846-sync.example,Possible C2/phishing infrastructure domain
+TRN01847,ipv4,198.51.100.88,Possible C2 or scanning source/destination address
+TRN01847,domain,node-1847-sync.example,Possible C2/phishing infrastructure domain
+TRN01851,ipv4,198.51.100.92,Possible C2 or scanning source/destination address
+TRN01851,domain,node-1851-sync.example,Possible C2/phishing infrastructure domain
+TRN01856,ipv4,198.51.100.97,Possible C2 or scanning source/destination address
+TRN01856,domain,node-1856-sync.example,Possible C2/phishing infrastructure domain
+TRN01856,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01866,ipv4,198.51.100.107,Possible C2 or scanning source/destination address
+TRN01866,domain,node-1866-sync.example,Possible C2/phishing infrastructure domain
+TRN01868,ipv4,198.51.100.109,Possible C2 or scanning source/destination address
+TRN01868,domain,node-1868-sync.example,Possible C2/phishing infrastructure domain
+TRN01872,ipv4,198.51.100.113,Possible C2 or scanning source/destination address
+TRN01872,domain,node-1872-sync.example,Possible C2/phishing infrastructure domain
+TRN01874,ipv4,198.51.100.115,Possible C2 or scanning source/destination address
+TRN01874,domain,node-1874-sync.example,Possible C2/phishing infrastructure domain
+TRN01874,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01876,ipv4,198.51.100.117,Possible C2 or scanning source/destination address
+TRN01876,domain,node-1876-sync.example,Possible C2/phishing infrastructure domain
+TRN01877,ipv4,198.51.100.118,Possible C2 or scanning source/destination address
+TRN01877,domain,node-1877-sync.example,Possible C2/phishing infrastructure domain
+TRN01878,ipv4,198.51.100.119,Possible C2 or scanning source/destination address
+TRN01878,domain,node-1878-sync.example,Possible C2/phishing infrastructure domain
+TRN01880,ipv4,198.51.100.121,Possible C2 or scanning source/destination address
+TRN01880,domain,node-1880-sync.example,Possible C2/phishing infrastructure domain
+TRN01880,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01881,ipv4,198.51.100.122,Possible C2 or scanning source/destination address
+TRN01881,domain,node-1881-sync.example,Possible C2/phishing infrastructure domain
+TRN01881,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01883,ipv4,198.51.100.124,Possible C2 or scanning source/destination address
+TRN01883,domain,node-1883-sync.example,Possible C2/phishing infrastructure domain
+TRN01887,ipv4,198.51.100.128,Possible C2 or scanning source/destination address
+TRN01887,domain,node-1887-sync.example,Possible C2/phishing infrastructure domain
+TRN01887,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01888,ipv4,198.51.100.129,Possible C2 or scanning source/destination address
+TRN01888,domain,node-1888-sync.example,Possible C2/phishing infrastructure domain
+TRN01888,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01889,ipv4,198.51.100.130,Possible C2 or scanning source/destination address
+TRN01889,domain,node-1889-sync.example,Possible C2/phishing infrastructure domain
+TRN01896,ipv4,198.51.100.137,Possible C2 or scanning source/destination address
+TRN01896,domain,node-1896-sync.example,Possible C2/phishing infrastructure domain
+TRN01896,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01897,ipv4,198.51.100.138,Possible C2 or scanning source/destination address
+TRN01897,domain,node-1897-sync.example,Possible C2/phishing infrastructure domain
+TRN01897,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01898,ipv4,198.51.100.139,Possible C2 or scanning source/destination address
+TRN01898,domain,node-1898-sync.example,Possible C2/phishing infrastructure domain
+TRN01902,ipv4,198.51.100.143,Possible C2 or scanning source/destination address
+TRN01902,domain,node-1902-sync.example,Possible C2/phishing infrastructure domain
+TRN01906,ipv4,198.51.100.147,Possible C2 or scanning source/destination address
+TRN01906,domain,node-1906-sync.example,Possible C2/phishing infrastructure domain
+TRN01907,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN01907,domain,node-1907-sync.example,Possible C2/phishing infrastructure domain
+TRN01909,ipv4,198.51.100.150,Possible C2 or scanning source/destination address
+TRN01909,domain,node-1909-sync.example,Possible C2/phishing infrastructure domain
+TRN01910,ipv4,198.51.100.151,Possible C2 or scanning source/destination address
+TRN01910,domain,node-1910-sync.example,Possible C2/phishing infrastructure domain
+TRN01910,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01913,ipv4,198.51.100.154,Possible C2 or scanning source/destination address
+TRN01913,domain,node-1913-sync.example,Possible C2/phishing infrastructure domain
+TRN01913,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01914,ipv4,198.51.100.155,Possible C2 or scanning source/destination address
+TRN01914,domain,node-1914-sync.example,Possible C2/phishing infrastructure domain
+TRN01917,ipv4,198.51.100.158,Possible C2 or scanning source/destination address
+TRN01917,domain,node-1917-sync.example,Possible C2/phishing infrastructure domain
+TRN01921,ipv4,198.51.100.162,Possible C2 or scanning source/destination address
+TRN01921,domain,node-1921-sync.example,Possible C2/phishing infrastructure domain
+TRN01921,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01922,ipv4,198.51.100.163,Possible C2 or scanning source/destination address
+TRN01922,domain,node-1922-sync.example,Possible C2/phishing infrastructure domain
+TRN01922,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01922,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01924,ipv4,198.51.100.165,Possible C2 or scanning source/destination address
+TRN01924,domain,node-1924-sync.example,Possible C2/phishing infrastructure domain
+TRN01927,ipv4,198.51.100.168,Possible C2 or scanning source/destination address
+TRN01927,domain,node-1927-sync.example,Possible C2/phishing infrastructure domain
+TRN01928,ipv4,198.51.100.169,Possible C2 or scanning source/destination address
+TRN01928,domain,node-1928-sync.example,Possible C2/phishing infrastructure domain
+TRN01932,ipv4,198.51.100.173,Possible C2 or scanning source/destination address
+TRN01932,domain,node-1932-sync.example,Possible C2/phishing infrastructure domain
+TRN01938,ipv4,198.51.100.179,Possible C2 or scanning source/destination address
+TRN01938,domain,node-1938-sync.example,Possible C2/phishing infrastructure domain
+TRN01944,ipv4,198.51.100.185,Possible C2 or scanning source/destination address
+TRN01944,domain,node-1944-sync.example,Possible C2/phishing infrastructure domain
+TRN01946,ipv4,198.51.100.187,Possible C2 or scanning source/destination address
+TRN01946,domain,node-1946-sync.example,Possible C2/phishing infrastructure domain
+TRN01948,ipv4,198.51.100.189,Possible C2 or scanning source/destination address
+TRN01948,domain,node-1948-sync.example,Possible C2/phishing infrastructure domain
+TRN01952,ipv4,198.51.100.193,Possible C2 or scanning source/destination address
+TRN01952,domain,node-1952-sync.example,Possible C2/phishing infrastructure domain
+TRN01955,ipv4,198.51.100.196,Possible C2 or scanning source/destination address
+TRN01955,domain,node-1955-sync.example,Possible C2/phishing infrastructure domain
+TRN01957,ipv4,198.51.100.198,Possible C2 or scanning source/destination address
+TRN01957,domain,node-1957-sync.example,Possible C2/phishing infrastructure domain
+TRN01959,ipv4,198.51.100.200,Possible C2 or scanning source/destination address
+TRN01959,domain,node-1959-sync.example,Possible C2/phishing infrastructure domain
+TRN01961,ipv4,198.51.100.202,Possible C2 or scanning source/destination address
+TRN01961,domain,node-1961-sync.example,Possible C2/phishing infrastructure domain
+TRN01962,ipv4,198.51.100.203,Possible C2 or scanning source/destination address
+TRN01962,domain,node-1962-sync.example,Possible C2/phishing infrastructure domain
+TRN01962,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01963,ipv4,198.51.100.204,Possible C2 or scanning source/destination address
+TRN01963,domain,node-1963-sync.example,Possible C2/phishing infrastructure domain
+TRN01965,ipv4,198.51.100.206,Possible C2 or scanning source/destination address
+TRN01965,domain,node-1965-sync.example,Possible C2/phishing infrastructure domain
+TRN01965,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01966,ipv4,198.51.100.207,Possible C2 or scanning source/destination address
+TRN01966,domain,node-1966-sync.example,Possible C2/phishing infrastructure domain
+TRN01968,ipv4,198.51.100.209,Possible C2 or scanning source/destination address
+TRN01968,domain,node-1968-sync.example,Possible C2/phishing infrastructure domain
+TRN01969,ipv4,198.51.100.210,Possible C2 or scanning source/destination address
+TRN01969,domain,node-1969-sync.example,Possible C2/phishing infrastructure domain
+TRN01969,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN01971,ipv4,198.51.100.212,Possible C2 or scanning source/destination address
+TRN01971,domain,node-1971-sync.example,Possible C2/phishing infrastructure domain
+TRN01979,ipv4,198.51.100.220,Possible C2 or scanning source/destination address
+TRN01979,domain,node-1979-sync.example,Possible C2/phishing infrastructure domain
+TRN01983,ipv4,198.51.100.4,Possible C2 or scanning source/destination address
+TRN01983,domain,node-1983-sync.example,Possible C2/phishing infrastructure domain
+TRN01984,ipv4,198.51.100.5,Possible C2 or scanning source/destination address
+TRN01984,domain,node-1984-sync.example,Possible C2/phishing infrastructure domain
+TRN01986,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN01986,domain,node-1986-sync.example,Possible C2/phishing infrastructure domain
+TRN01986,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN01990,ipv4,198.51.100.11,Possible C2 or scanning source/destination address
+TRN01990,domain,node-1990-sync.example,Possible C2/phishing infrastructure domain
+TRN01990,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN01991,ipv4,198.51.100.12,Possible C2 or scanning source/destination address
+TRN01991,domain,node-1991-sync.example,Possible C2/phishing infrastructure domain
+TRN01992,ipv4,198.51.100.13,Possible C2 or scanning source/destination address
+TRN01992,domain,node-1992-sync.example,Possible C2/phishing infrastructure domain
+TRN01996,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN01996,domain,node-1996-sync.example,Possible C2/phishing infrastructure domain
+TRN03002,ipv4,198.51.100.143,Possible C2 or scanning source/destination address
+TRN03002,domain,node-3002-sync.example,Possible C2/phishing infrastructure domain
+TRN03002,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03003,ipv4,198.51.100.144,Possible C2 or scanning source/destination address
+TRN03003,domain,node-3003-sync.example,Possible C2/phishing infrastructure domain
+TRN03003,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03003,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN03004,ipv4,198.51.100.145,Possible C2 or scanning source/destination address
+TRN03004,domain,node-3004-sync.example,Possible C2/phishing infrastructure domain
+TRN03005,ipv4,198.51.100.146,Possible C2 or scanning source/destination address
+TRN03005,domain,node-3005-sync.example,Possible C2/phishing infrastructure domain
+TRN03007,ipv4,198.51.100.148,Possible C2 or scanning source/destination address
+TRN03007,domain,node-3007-sync.example,Possible C2/phishing infrastructure domain
+TRN03007,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03008,ipv4,198.51.100.149,Possible C2 or scanning source/destination address
+TRN03008,domain,node-3008-sync.example,Possible C2/phishing infrastructure domain
+TRN03010,ipv4,198.51.100.151,Possible C2 or scanning source/destination address
+TRN03010,domain,node-3010-sync.example,Possible C2/phishing infrastructure domain
+TRN03013,ipv4,198.51.100.154,Possible C2 or scanning source/destination address
+TRN03013,domain,node-3013-sync.example,Possible C2/phishing infrastructure domain
+TRN03017,ipv4,198.51.100.158,Possible C2 or scanning source/destination address
+TRN03017,domain,node-3017-sync.example,Possible C2/phishing infrastructure domain
+TRN03017,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03036,ipv4,198.51.100.177,Possible C2 or scanning source/destination address
+TRN03036,domain,node-3036-sync.example,Possible C2/phishing infrastructure domain
+TRN03036,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03037,ipv4,198.51.100.178,Possible C2 or scanning source/destination address
+TRN03037,domain,node-3037-sync.example,Possible C2/phishing infrastructure domain
+TRN03037,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN03040,ipv4,198.51.100.181,Possible C2 or scanning source/destination address
+TRN03040,domain,node-3040-sync.example,Possible C2/phishing infrastructure domain
+TRN03045,ipv4,198.51.100.186,Possible C2 or scanning source/destination address
+TRN03045,domain,node-3045-sync.example,Possible C2/phishing infrastructure domain
+TRN03049,ipv4,198.51.100.190,Possible C2 or scanning source/destination address
+TRN03049,domain,node-3049-sync.example,Possible C2/phishing infrastructure domain
+TRN03050,ipv4,198.51.100.191,Possible C2 or scanning source/destination address
+TRN03050,domain,node-3050-sync.example,Possible C2/phishing infrastructure domain
+TRN03053,ipv4,198.51.100.194,Possible C2 or scanning source/destination address
+TRN03053,domain,node-3053-sync.example,Possible C2/phishing infrastructure domain
+TRN03056,ipv4,198.51.100.197,Possible C2 or scanning source/destination address
+TRN03056,domain,node-3056-sync.example,Possible C2/phishing infrastructure domain
+TRN03059,ipv4,198.51.100.200,Possible C2 or scanning source/destination address
+TRN03059,domain,node-3059-sync.example,Possible C2/phishing infrastructure domain
+TRN03059,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03061,ipv4,198.51.100.202,Possible C2 or scanning source/destination address
+TRN03061,domain,node-3061-sync.example,Possible C2/phishing infrastructure domain
+TRN03061,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN03066,ipv4,198.51.100.207,Possible C2 or scanning source/destination address
+TRN03066,domain,node-3066-sync.example,Possible C2/phishing infrastructure domain
+TRN03066,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN03068,ipv4,198.51.100.209,Possible C2 or scanning source/destination address
+TRN03068,domain,node-3068-sync.example,Possible C2/phishing infrastructure domain
+TRN03068,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03077,ipv4,198.51.100.218,Possible C2 or scanning source/destination address
+TRN03077,domain,node-3077-sync.example,Possible C2/phishing infrastructure domain
+TRN03077,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN03078,ipv4,198.51.100.219,Possible C2 or scanning source/destination address
+TRN03078,domain,node-3078-sync.example,Possible C2/phishing infrastructure domain
+TRN03084,ipv4,198.51.100.5,Possible C2 or scanning source/destination address
+TRN03084,domain,node-3084-sync.example,Possible C2/phishing infrastructure domain
+TRN03086,ipv4,198.51.100.7,Possible C2 or scanning source/destination address
+TRN03086,domain,node-3086-sync.example,Possible C2/phishing infrastructure domain
+TRN03089,ipv4,198.51.100.10,Possible C2 or scanning source/destination address
+TRN03089,domain,node-3089-sync.example,Possible C2/phishing infrastructure domain
+TRN03089,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN03092,ipv4,198.51.100.13,Possible C2 or scanning source/destination address
+TRN03092,domain,node-3092-sync.example,Possible C2/phishing infrastructure domain
+TRN03093,ipv4,198.51.100.14,Possible C2 or scanning source/destination address
+TRN03093,domain,node-3093-sync.example,Possible C2/phishing infrastructure domain
+TRN03096,ipv4,198.51.100.17,Possible C2 or scanning source/destination address
+TRN03096,domain,node-3096-sync.example,Possible C2/phishing infrastructure domain
+TRN03096,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03106,ipv4,198.51.100.27,Possible C2 or scanning source/destination address
+TRN03106,domain,node-3106-sync.example,Possible C2/phishing infrastructure domain
+TRN03107,ipv4,198.51.100.28,Possible C2 or scanning source/destination address
+TRN03107,domain,node-3107-sync.example,Possible C2/phishing infrastructure domain
+TRN03107,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03108,ipv4,198.51.100.29,Possible C2 or scanning source/destination address
+TRN03108,domain,node-3108-sync.example,Possible C2/phishing infrastructure domain
+TRN03108,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+TRN03109,ipv4,198.51.100.30,Possible C2 or scanning source/destination address
+TRN03109,domain,node-3109-sync.example,Possible C2/phishing infrastructure domain
+TRN03115,ipv4,198.51.100.36,Possible C2 or scanning source/destination address
+TRN03115,domain,node-3115-sync.example,Possible C2/phishing infrastructure domain
+TRN03122,ipv4,198.51.100.43,Possible C2 or scanning source/destination address
+TRN03122,domain,node-3122-sync.example,Possible C2/phishing infrastructure domain
+TRN03133,ipv4,198.51.100.54,Possible C2 or scanning source/destination address
+TRN03133,domain,node-3133-sync.example,Possible C2/phishing infrastructure domain
+TRN03139,ipv4,198.51.100.60,Possible C2 or scanning source/destination address
+TRN03139,domain,node-3139-sync.example,Possible C2/phishing infrastructure domain
+TRN03139,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN03140,ipv4,198.51.100.61,Possible C2 or scanning source/destination address
+TRN03140,domain,node-3140-sync.example,Possible C2/phishing infrastructure domain
+TRN03142,ipv4,198.51.100.63,Possible C2 or scanning source/destination address
+TRN03142,domain,node-3142-sync.example,Possible C2/phishing infrastructure domain
+TRN03143,ipv4,198.51.100.64,Possible C2 or scanning source/destination address
+TRN03143,domain,node-3143-sync.example,Possible C2/phishing infrastructure domain
+TRN03143,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN03153,ipv4,198.51.100.74,Possible C2 or scanning source/destination address
+TRN03153,domain,node-3153-sync.example,Possible C2/phishing infrastructure domain
+TRN03153,malware,Dustrat,Named actor/malware associated with energy-sector targeting
+TRN03154,ipv4,198.51.100.75,Possible C2 or scanning source/destination address
+TRN03154,domain,node-3154-sync.example,Possible C2/phishing infrastructure domain
+TRN03154,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+TRN03158,ipv4,198.51.100.79,Possible C2 or scanning source/destination address
+TRN03158,domain,node-3158-sync.example,Possible C2/phishing infrastructure domain
+TRN03159,ipv4,198.51.100.80,Possible C2 or scanning source/destination address
+TRN03159,domain,node-3159-sync.example,Possible C2/phishing infrastructure domain
+TRN03160,ipv4,198.51.100.81,Possible C2 or scanning source/destination address
+TRN03160,domain,node-3160-sync.example,Possible C2/phishing infrastructure domain
+TRN03163,ipv4,198.51.100.84,Possible C2 or scanning source/destination address
+TRN03163,domain,node-3163-sync.example,Possible C2/phishing infrastructure domain
+TRN03163,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+RPT9001,ipv4,203.0.113.77,Possible C2 or scanning source/destination address
+RPT9001,domain,maintenance-check.example,Possible C2/phishing infrastructure domain
+RPT9001,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+RPT9002,ipv4,198.51.100.44,Possible C2 or scanning source/destination address
+RPT9002,domain,desert-sync.example,Possible C2/phishing infrastructure domain
+RPT9002,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+RPT9002,threat_actor,Desert-Sync,Named actor/malware associated with energy-sector targeting
+RPT9004,sha256,8e50b5f71c8efa22abe51646264f41367451d4acc42134c8c2b787c3190bc393,Possible malware/file hash for endpoint matching
+RPT9004,threat_actor,Kalahari Jackal,Named actor/malware associated with energy-sector targeting
+RPT9004,malware,Sandstorm Loader,Named actor/malware associated with energy-sector targeting
+RPT9005,domain,maintenance-check.example,Possible C2/phishing infrastructure domain
